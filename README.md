@@ -1,4 +1,4 @@
-# Question & Answer Duplicate Analyzer
+# Question & Answer Duplicate Detection
 
 This project is a solution for the technical assignment to parse, analyze, and identify duplicate questions from a collection of PDF and JSON files. The system processes unstructured data from a PDF and structured data from a JSON file, normalizes them into a common format, and uses fuzzy string matching to detect similarities.
 

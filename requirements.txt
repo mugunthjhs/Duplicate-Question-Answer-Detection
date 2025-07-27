@@ -1,0 +1,4 @@
+thefuzz
+json
+PyMuPDF``
+python-Levenshtein

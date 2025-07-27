@@ -1,0 +1,4205 @@
+{
+  "_id": {
+    "$oid": "6882524b23f85f402157dda1"
+  },
+  "boardId": {
+    "$oid": "677cf862f8d9f15fbaa74e03"
+  },
+  "gradeId": {
+    "$oid": "67a078bdc02efd48be4e71e9"
+  },
+  "subjectId": {
+    "$oid": "683eceb035eda452139a9796"
+  },
+  "chapterId": {
+    "$oid": "685a2db76774b35146d3c2c7"
+  },
+  "chapterName": "CHAPTER 9 :  REFLECTION AND REFRACTION",
+  "chapterNumber": 9,
+  "questions": [
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda2"
+      },
+      "question": "What type of mirror is used in torches and headlights of vehicles?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "None of these"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.717Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda3"
+      },
+      "question": "A ray parallel to the principal axis of a concave mirror passes through which point after reflection?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Pole",
+        "Centre of curvature",
+        "Focus",
+        "Aperture"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Focus",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda4"
+      },
+      "question": "If the radius of curvature of a spherical mirror is 30 cm, its focal length is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "15 cm",
+        "30 cm",
+        "45 cm",
+        "60 cm"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "15 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda5"
+      },
+      "question": "A convex mirror forms an image that is always:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Real and inverted",
+        "Virtual and erect",
+        "Real and erect",
+        "Virtual and inverted"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual and erect",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda6"
+      },
+      "question": "Which mirror can form a magnified virtual image?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex mirror",
+        "Plane mirror",
+        "Concave mirror",
+        "All of these"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda7"
+      },
+      "question": "In spherical mirrors, the pole is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "The center of the mirror",
+        "A point on the principal axis",
+        "A point on the surface of the mirror",
+        "None of these"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "A point on the surface of the mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda8"
+      },
+      "question": "The unit of power of a lens is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Metre",
+        "Dioptre",
+        "Centimetre",
+        "Watt"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Dioptre",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dda9"
+      },
+      "question": "The power of a lens with focal length 50 cm is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "+2 D",
+        "+1 D",
+        "+0.5 D",
+        "+3 D"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "+2 D",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddaa"
+      },
+      "question": "If a ray passes through the centre of curvature of a concave mirror, it is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Reflected through focus",
+        "Reflected back on the same path",
+        "Reflected through pole",
+        "Not reflected"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Reflected back on the same path",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddab"
+      },
+      "question": "Refraction occurs due to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Change in frequency of light",
+        "Change in direction of light",
+        "Change in speed of light",
+        "Both B and C"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Both B and C",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddac"
+      },
+      "question": "The magnification produced by a mirror is -2. This implies the image is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Virtual and erect",
+        "Virtual and diminished",
+        "Real and inverted",
+        "Real and erect"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Real and inverted",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddad"
+      },
+      "question": "The principal focus of a convex mirror is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "In front of the mirror",
+        "Behind the mirror",
+        "On the mirror surface",
+        "At the center of curvature"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Behind the mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.718Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddae"
+      },
+      "question": "A light ray passing through the principal focus of a concave mirror will reflect and travel:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Parallel to the principal axis",
+        "Through the pole",
+        "To the center of curvature",
+        "Along the same path"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Parallel to the principal axis",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddaf"
+      },
+      "question": "Which of the following always forms a virtual and erect image?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Convex lens",
+        "Concave lens"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Convex mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb0"
+      },
+      "question": "An object is placed 10 cm from a convex mirror of focal length 15 cm. The image will be:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Real, inverted",
+        "Virtual, erect, diminished",
+        "Virtual, erect, enlarged",
+        "Real, erect"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual, erect, diminished",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb1"
+      },
+      "question": "A concave mirror is used in solar cookers because:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It produces a virtual image",
+        "It focuses sunlight to a point",
+        "It does not reflect light",
+        "It is flat and easy to clean"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "It focuses sunlight to a point",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb2"
+      },
+      "question": "A ray incident obliquely at the pole of a mirror follows which law?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Newton's Law",
+        "Ohm’s Law",
+        "Snell’s Law",
+        "Law of reflection"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Law of reflection",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb3"
+      },
+      "question": "Which surface causes maximum reflection of light?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "White paper",
+        "Wooden surface",
+        "Highly polished metal",
+        "Rough wall"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Highly polished metal",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb4"
+      },
+      "question": "A concave mirror is used by dentists because it forms:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Diminished image",
+        "Virtual, enlarged image",
+        "Real, enlarged image",
+        "Real, diminished image"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual, enlarged image",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb5"
+      },
+      "question": "The image formed by a plane mirror is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Real, erect and same size",
+        "Virtual, erect and same size",
+        "Real, inverted and diminished",
+        "Virtual, inverted and enlarged"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual, erect and same size",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb6"
+      },
+      "question": "A person sees a virtual, inverted and diminished image. Which mirror is being used?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Convex mirror",
+        "Concave mirror",
+        "Cylindrical mirror"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb7"
+      },
+      "question": "For a mirror, if image distance is positive, the image is formed:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "In front of mirror",
+        "Behind the mirror",
+        "Cannot say",
+        "On the surface"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "In front of mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb8"
+      },
+      "question": "The radius of curvature of a spherical mirror is 24 cm. Its focal length is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "6 cm"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "12 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddb9"
+      },
+      "question": "The image formed by a concave mirror is virtual and larger than the object. The object is located:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Between P and F",
+        "Beyond C",
+        "At F",
+        "At C"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Between P and F",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.719Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddba"
+      },
+      "question": "In rear-view mirrors, convex mirrors are used because they provide:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Enlarged view",
+        "Narrow view",
+        "Wide field of view",
+        "Real image"  
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Wide field of view",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddbb"
+      },
+      "question": "The power of a concave lens is –2 D. Its focal length is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "+0.5 m",
+        "–0.5 m",
+        "+2 m",
+        "–2 m"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "–0.5 m",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddbc"
+      },
+      "question": "If the image formed by a mirror is real, inverted and of the same size as the object, the object is placed:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "At focus",
+        "At infinity",
+        "At centre of curvature",
+        "Between focus and pole"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "At centre of curvature",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddbd"
+      },
+      "question": "A concave mirror of focal length 10 cm will form an image at infinity if the object is placed at:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "5 cm",
+        "10 cm",
+        "20 cm",
+        "Focus"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Focus",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddbe"
+      },
+      "question": "When an object is placed at infinity, a concave mirror forms an image at:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Infinity",
+        "Centre of curvature",
+        "Focus",
+        "Pole"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Focus",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddbf"
+      },
+      "question": "A virtual image larger than the object is always formed by a:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "Concave lens"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc0"
+      },
+      "question": "If a ray passes through the centre of curvature of a spherical mirror, it:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Reflects back along the same path",
+        "Passes through the focus",
+        "Becomes parallel to principal axis",
+        "Passes through the pole"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Reflects back along the same path",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc1"
+      },
+      "question": "What is the magnification of an image formed by a convex mirror if image distance is +6 cm and object distance is –12 cm?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "+2",
+        "–2",
+        "+0.5",
+        "–0.5"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "+0.5",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc2"
+      },
+      "question": "A convex mirror has a focal length of 20 cm. Where is the image formed when an object is 20 cm from the mirror?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "20 cm in front",
+        "10 cm behind",
+        "40 cm behind",
+        "20 cm behind"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "10 cm behind",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc3"
+      },
+      "question": "An object is placed 10 cm from a convex lens with focal length 15 cm. The image formed will be:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Virtual and diminished",
+        "Real and inverted",
+        "Real and magnified",
+        "Virtual and magnified"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual and magnified",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.720Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc4"
+      },
+      "question": "A ray of light entering obliquely from air to glass bends:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Towards the normal",
+        "Away from the normal",
+        "Undeviated",
+        "Along the surface"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Towards the normal",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.721Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc5"
+      },
+      "question": "Which device uses concave mirrors to concentrate sunlight?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Periscope",
+        "Solar furnace",
+        "Microscope",
+        "Telescope"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Solar furnace",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.721Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc6"
+      },
+      "question": "A lens forms a virtual image which is always diminished. The lens is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex",
+        "Concave",
+        "Cylindrical",
+        "Plano-convex"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Concave",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.721Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc7"
+      },
+      "question": "Which of the following is true for image formed by a plane mirror?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Virtual and magnified",
+        "Real and inverted",
+        "Virtual and same size",
+        "Diminished and real"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual and same size",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.721Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc8"
+      },
+      "question": "An erect image three times the size of the object is obtained using a mirror. The object is placed:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Between pole and focus of concave mirror",
+        "At centre of curvature",
+        "In front of convex mirror",
+        "At focus"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Between pole and focus of concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.721Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddc9"
+      },
+      "question": "Which lens is used in magnifying glasses?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Concave",
+        "Convex",
+        "Plane",
+        "Plano-concave"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Convex",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddca"
+      },
+      "question": "What is the refractive index of a medium in which light travels at 2 × 10⁸ m/s?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "1.5",
+        "1.33",
+        "1.0",
+        "2.0"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "1.5",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddcb"
+      },
+      "question": "The refractive index of diamond is 2.42. This means:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Light slows down 2.42 times in diamond",
+        "Diamond is transparent",
+        "Light speeds up in diamond",
+        "Light bends less in diamond"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Light slows down 2.42 times in diamond",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddcc"
+      },
+      "question": "A concave mirror forms a real image of double the size of the object. If object is at 10 cm, image distance is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "–10 cm",
+        "–20 cm",
+        "–5 cm",
+        "+20 cm"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "–20 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddcd"
+      },
+      "question": "The bending of light at the interface of two media is due to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Change in direction",
+        "Change in speed",
+        "Change in frequency",
+        "Change in amplitude"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Change in speed",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddce"
+      },
+      "question": "A lens has a power of +4 D. Its focal length is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "0.25 m",
+        "25 cm",
+        "Both A and B",
+        "4 m"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Both A and B",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddcf"
+      },
+      "question": "What is the magnification of a plane mirror?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "0",
+        "+1",
+        "–1",
+        "Infinite"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "+1",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd0"
+      },
+      "question": "The focal length of a convex lens is 10 cm. If an object is placed at 5 cm, the image is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Real and inverted",
+        "Virtual and erect",
+        "Real and erect",
+        "At infinity"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual and erect",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.722Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd1"
+      },
+      "question": "A lens produces a magnification of –1. What type of lens and position of object?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex, at 2F",
+        "Concave, at 2F",
+        "Convex, at F",
+        "Concave, at infinity"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Convex, at 2F",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd2"
+      },
+      "question": "A concave lens has focal length –20 cm. What is its power?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "+5 D",
+        "–5 D",
+        "+2 D",
+        "–2 D"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "–5 D",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd3"
+      },
+      "question": "The image formed by a convex mirror of an object placed at infinity is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Real and diminished",
+        "Virtual and erect",
+        "Virtual, erect, point-sized",
+        "Real and erect"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual, erect, point-sized",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd4"
+      },
+      "question": "An object is placed 30 cm in front of a concave mirror with focal length 15 cm. What will be the image distance and its nature?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "–30 cm, real and inverted",
+        "–15 cm, virtual and erect",
+        "–30 cm, virtual and erect",
+        "–30 cm, real and erect"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "–30 cm, real and inverted",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd5"
+      },
+      "question": "A convex lens forms an image twice the size of the object, on the opposite side of the lens. The object distance must be:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Less than F",
+        "Between F and 2F",
+        "At 2F",
+        "Beyond 2F"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Between F and 2F",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd6"
+      },
+      "question": "A concave mirror gives an erect and magnified image. The object must be located:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Beyond C",
+        "At F",
+        "Between P and F",
+        "At C"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Between P and F",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd7"
+      },
+      "question": "An object 2 cm high is placed at 10 cm in front of a convex mirror of focal length 15 cm. What is the height of the image?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "0.6 cm",
+        "1 cm",
+        "1.5 cm",
+        "2.5 cm"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "0.6 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd8"
+      },
+      "question": "The speed of light in a medium is 2 × 10⁸ m/s. What is its refractive index relative to air?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "1.33",
+        "1.5",
+        "1.25",
+        "1.42"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "1.5",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddd9"
+      },
+      "question": "An object 5 cm high is placed at 15 cm in front of a convex lens of focal length 10 cm. Calculate the position and nature of image.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "+30 cm, real and inverted",
+        "+60 cm, real and erect",
+        "+30 cm, virtual and erect",
+        "+60 cm, real and inverted"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "+30 cm, real and inverted",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddda"
+      },
+      "question": "A lens forms a virtual image at 25 cm from the lens on the same side as the object. If the object is at 10 cm, find the type and focal length.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex, +16.7 cm",
+        "Concave, –16.7 cm",
+        "Convex, –16.7 cm",
+        "Concave, +16.7 cm"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Concave, –16.7 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dddb"
+      },
+      "question": "If a concave mirror produces an image at 40 cm from it, when the object is placed 20 cm in front, find the focal length.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "13.3 cm",
+        "15 cm",
+        "20 cm",
+        "26.6 cm"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "13.3 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dddc"
+      },
+      "question": "A ray passes from air into water. It bends:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Away from the normal",
+        "Toward the normal",
+        "Reflects back",
+        "Passes undeviated"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Toward the normal",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dddd"
+      },
+      "question": "The image formed by a lens is inverted and of same size. Object is at 2F. The lens is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex",
+        "Concave",
+        "Plano-concave",
+        "Cylindrical"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Convex",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddde"
+      },
+      "question": "A ray enters a rectangular glass slab and emerges parallel to incident ray. This happens due to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Law of reflection",
+        "Equal and opposite refraction",
+        "Total internal reflection",
+        "Snell’s law"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Equal and opposite refraction",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dddf"
+      },
+      "question": "Which has highest optical density?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Water",
+        "Kerosene",
+        "Diamond",
+        "Alcohol"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Diamond",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde0"
+      },
+      "question": "What kind of lens is used to correct hypermetropia?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Cylindrical lens",
+        "Plane lens"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Convex lens",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde1"
+      },
+      "question": "The focal length of a lens is 40 cm. Its power is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "0.25 D",
+        "2.5 D",
+        "1.5 D",
+        "0.4 D"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "2.5 D",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde2"
+      },
+      "question": "A concave mirror gives a real image 20 cm high of an object 5 cm high. The magnification is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "+4",
+        "–4",
+        "+0.25",
+        "–0.25"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "–4",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde3"
+      },
+      "question": "A concave lens with focal length 20 cm is placed 60 cm away from the object. The image distance is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "–15 cm",
+        "–20 cm",
+        "–30 cm",
+        "–12 cm"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "–15 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde4"
+      },
+      "question": "A convex mirror has focal length of 20 cm. What is the power?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "–5 D",
+        "+5 D",
+        "–2.5 D",
+        "+2.5 D"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "+2.5 D",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde5"
+      },
+      "question": "In which position will a convex lens form a virtual, erect and magnified image?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "At 2F",
+        "Beyond 2F",
+        "Between F and 2F",
+        "Between F and optical centre"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Between F and optical centre",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde6"
+      },
+      "question": "A student obtains a real image on a screen using a convex lens. What happens to image if the object is moved closer to the lens?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Image size decreases",
+        "Image size increases",
+        "Image becomes virtual",
+        "Image disappears"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Image size increases",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde7"
+      },
+      "question": "A glass slab is placed over printed text. Letters appear raised due to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Reflection",
+        "Diffraction",
+        "Refraction",
+        "Scattering"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Refraction",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde8"
+      },
+      "question": "A concave mirror produces a virtual image 30 cm behind the mirror. If the object is 10 cm in front, the focal length is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "–15 cm",
+        "–20 cm",
+        "–30 cm",
+        "–10 cm"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "–20 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.723Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dde9"
+      },
+      "question": "What happens to the image formed by a convex mirror as the object is moved farther away?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Image becomes real",
+        "Image size increases",
+        "Image size decreases",
+        "Image disappears"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Image size decreases",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddea"
+      },
+      "question": "A convex lens is used as a magnifier. What should be the distance of object from lens?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "At focus",
+        "Beyond 2F",
+        "Between optical centre and F",
+        "At 2F"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Between optical centre and F",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddeb"
+      },
+      "question": "A person uses a concave mirror and sees an enlarged, upright image. The object is placed:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Beyond C",
+        "At F",
+        "At C",
+        "Between P and F"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Between P and F",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddec"
+      },
+      "question": "A lens forms a real, inverted image three times the object size. What is the nature of lens and image distance if object is at 10 cm?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex, –30 cm",
+        "Concave, +30 cm",
+        "Convex, +30 cm",
+        "Concave, –30 cm"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Convex, +30 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157dded"
+      },
+      "question": "The lens formula is given by:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "1/f = 1/v + 1/u",
+        "1/f = 1/v – 1/u",
+        "f = v + u",
+        "f = v – u"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "1/f = 1/v – 1/u",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddee"
+      },
+      "question": "Which mirror can produce both real and virtual images?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Convex mirror",
+        "Concave mirror",
+        "None of these"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddef"
+      },
+      "question": "A ray of light falls normally on a surface separating two media. It:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Reflects",
+        "Bends toward normal",
+        "Bends away from normal",
+        "Passes undeviated"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Passes undeviated",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf0"
+      },
+      "question": "Which of these lenses has maximum power?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "f = +100 cm",
+        "f = +25 cm",
+        "f = +10 cm",
+        "f = –50 cm"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "f = +10 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf1"
+      },
+      "question": "A convex lens with power +5 D is placed in contact with a lens of power –2 D. The equivalent focal length is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "33.3 cm",
+        "20 cm",
+        "50 cm",
+        "100 cm"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "33.3 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf2"
+      },
+      "question": "Which mirror is used as a rear-view mirror in vehicles and why?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Concave mirror, because it gives a magnified image",
+        "Plane mirror, because it gives real image",
+        "Convex mirror, because it provides a wider field of view",
+        "Convex mirror, because it gives real images"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Convex mirror, because it provides a wider field of view",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf3"
+      },
+      "question": "A dentist uses a mirror to examine a patient's teeth. The mirror used is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex, to reduce the image size",
+        "Concave, to magnify the image",
+        "Plane, to give a laterally inverted image",
+        "Convex, to form a virtual image"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Concave, to magnify the image",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.724Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf4"
+      },
+      "question": "A shaving mirror should form a virtual, erect and enlarged image. Which mirror should be used?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Convex mirror",
+        "Concave mirror",
+        "Cylindrical mirror"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf5"
+      },
+      "question": "Solar cookers use concave mirrors primarily to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Form multiple images",
+        "Spread the sunlight evenly",
+        "Convert light into electricity",
+        "Focus sunlight at one point"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Focus sunlight at one point",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf6"
+      },
+      "question": "A magnifying glass uses a convex lens because it:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Makes objects look smaller",
+        "Produces a virtual and diminished image",
+        "Produces a virtual and enlarged image",
+        "Inverts the image"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Produces a virtual and enlarged image",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf7"
+      },
+      "question": "Which lens is used in a simple microscope?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Cylindrical lens",
+        "Plane lens"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Convex lens",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf8"
+      },
+      "question": "A person finds difficulty reading small print. The lens required for correction is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Plane mirror",
+        "Cylindrical lens"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Convex lens",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddf9"
+      },
+      "question": "A diverging lens is used in correcting:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Hypermetropia",
+        "Astigmatism",
+        "Myopia",
+        "Presbyopia"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Myopia",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddfa"
+      },
+      "question": "Which mirror is preferred in street lamps to spread light over a large area?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "Parabolic mirror"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Convex mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddfb"
+      },
+      "question": "Which mirror is best suited for make-up application at home?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "Rear-view mirror"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddfc"
+      },
+      "question": "A convex mirror shows the image of a car 6 m behind it. The image is 2 m away from the mirror. What is the focal length of the mirror?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "2 cm",
+        "3 m",
+        "4 m",
+        "5 m"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "3 m",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddfd"
+      },
+      "question": "Which of the following setups will give a real image?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror with object at 5 cm",
+        "Convex mirror with object at 20 cm",
+        "Convex lens with object at 2F",
+        "Concave mirror with object between P and F"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Convex lens with object at 2F",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddfe"
+      },
+      "question": "Why do we see our face smaller in a convex mirror?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It forms a virtual and magnified image",
+        "It forms a virtual and diminished image",
+        "It forms a real and inverted image",
+        "It forms a real and magnified image"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "It forms a virtual and diminished image",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157ddff"
+      },
+      "question": "A convex lens is used as a projector lens. The reason is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It forms inverted and virtual images",
+        "It forms erect and magnified images",
+        "It forms real, enlarged images on screen",
+        "It forms multiple images"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "It forms real, enlarged images on screen",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de00"
+      },
+      "question": "In which case does a convex lens form a virtual image?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Object at F",
+        "Object between F and lens",
+        "Object at 2F",
+        "Object beyond 2F"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Object between F and lens",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de01"
+      },
+      "question": "Rear-view mirrors of vehicles must be convex because:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They reflect less light",
+        "They give magnified images",
+        "They form real images",
+        "They give erect, diminished and wide-view images"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "They give erect, diminished and wide-view images",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de02"
+      },
+      "question": "Why does a fish in water appear to be at a different position when seen from air?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Diffraction",
+        "Refraction",
+        "Total internal reflection",
+        "Dispersion"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Refraction",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de03"
+      },
+      "question": "A student places a coin in a glass of water and it appears raised. The reason is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Scattering",
+        "Reflection",
+        "Refraction",
+        "Interference"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Refraction",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de04"
+      },
+      "question": "A real image formed by a concave mirror can be captured on:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Retina",
+        "Lens",
+        "Screen",
+        "Water surface"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Screen",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de05"
+      },
+      "question": "A torch reflector uses concave mirror because:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It forms virtual images",
+        "It gives sharp and parallel light beam",
+        "It is flat",
+        "It is cheap"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "It gives sharp and parallel light beam",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de06"
+      },
+      "question": "A convex lens has focal length 10 cm. Where should an object be placed to obtain a virtual image?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "At 10 cm",
+        "At 20 cm",
+        "Between lens and 10 cm",
+        "Beyond 20 cm"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Between lens and 10 cm",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de07"
+      },
+      "question": "A coin appears lifted inside a tumbler of water. This effect is used in:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Optical fibers",
+        "Contact lenses",
+        "Prism design",
+        "Swimming pool tiles"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Contact lenses",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de08"
+      },
+      "question": "A child places a ruler inside a glass of water and observes it bent. What concept is illustrated?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Scattering",
+        "Reflection",
+        "Diffraction",
+        "Refraction"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Refraction",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de09"
+      },
+      "question": "A glass slab placed on a paper shifts the print slightly. This is due to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Partial reflection",
+        "Absorption",
+        "Refraction",
+        "Polarisation"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Refraction",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de0a"
+      },
+      "question": "A camera lens system uses convex lenses to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Spread light",
+        "Collect light and focus it",
+        "Invert the image",
+        "Produce virtual image"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Collect light and focus it",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.725Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de0b"
+      },
+      "question": "A ray passing through optical centre of a lens:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Bends away",
+        "Bends towards",
+        "Gets absorbed",
+        "Passes undeviated"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Passes undeviated",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de0c"
+      },
+      "question": "Why does a convex lens burn paper when sunlight is focused?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It absorbs heat",
+        "It reflects sunlight",
+        "It converges sunlight to a point",
+        "It diffuses the light"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "It converges sunlight to a point",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de0d"
+      },
+      "question": "Spectacles for correcting farsightedness use:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Plane glass",
+        "Cylindrical lens"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Convex lens",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de0e"
+      },
+      "question": "A rearview mirror must not produce real images because:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Real images are inverted",
+        "Real images are magnified",
+        "Real images are formed far",
+        "Real images cannot be captured"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Real images are inverted",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de0f"
+      },
+      "question": "A 5 cm tall object is placed at 10 cm in front of a concave mirror. If focal length is 15 cm, the image formed is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Real and inverted",
+        "Virtual and erect",
+        "Virtual and inverted",
+        "Real and erect"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Virtual and erect",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de10"
+      },
+      "question": "Why are security mirrors in shops made convex?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "To enlarge the image",
+        "To create real images",
+        "To provide a wide field of view",
+        "To make images look inverted"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "To provide a wide field of view",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de11"
+      },
+      "question": "A student wants to focus sunlight onto a single point to heat a small object. Which mirror should they use?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Plane mirror",
+        "Convex mirror",
+        "Concave mirror",
+        "Cylindrical mirror"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de12"
+      },
+      "question": "Which device uses refraction to split light into its constituent colors?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Lens",
+        "Prism",
+        "Mirror",
+        "Plane glass"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Prism",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de13"
+      },
+      "question": "In designing a magnifying glass, what must be the focal length of the lens used?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Long focal length",
+        "Short focal length",
+        "Infinite focal length",
+        "Variable focal length"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Short focal length",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de14"
+      },
+      "question": "Which of these can be used to produce an inverted image on a screen?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Concave lens"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Concave mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de15"
+      },
+      "question": "A camera uses a convex lens to:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Magnify virtual images",
+        "Form real images on film or sensor",
+        "Produce upright images",
+        "Widen the field of view"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Form real images on film or sensor",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.726Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de16"
+      },
+      "question": "A microscope uses a convex lens because it:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Forms multiple images",
+        "Forms virtual and diminished images",
+        "Forms virtual and enlarged images",
+        "Forms only real images"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Forms virtual and enlarged images",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de17"
+      },
+      "question": "Which property of light is used in optical fibers?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Reflection",
+        "Dispersion",
+        "Refraction",
+        "Total internal reflection"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "Total internal reflection",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de18"
+      },
+      "question": "When an object is placed at the focus of a convex lens, the image is:",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "At infinity, real and inverted",
+        "At focus, virtual and erect",
+        "At 2F, real and erect",
+        "Between F and O, virtual"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "At infinity, real and inverted",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de19"
+      },
+      "question": "Why does a pencil in a glass of water appear bent?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Light slows down and bends",
+        "Light reflects completely",
+        "Light spreads into colors",
+        "The glass acts as a lens"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "Light slows down and bends",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de1a"
+      },
+      "question": "A concave mirror can form both real and virtual images. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It always forms virtual images",
+        "It depends on the position of the object",
+        "It forms only real images",
+        "Virtual images are not possible in mirrors"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "It depends on the position of the object",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de1b"
+      },
+      "question": "Convex mirrors are used in vehicles' side mirrors. Justify this choice.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They form magnified images",
+        "They form real and inverted images",
+        "They give a wider field of view",
+        "They reduce headlight glare"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "They give a wider field of view",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de1c"
+      },
+      "question": "Convex lenses can form real or virtual images. Explain why.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They have flat surfaces",
+        "They always form real images",
+        "Depends on the object distance from lens",
+        "They always magnify images"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Depends on the object distance from lens",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de1d"
+      },
+      "question": "A concave lens cannot form real images. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It converges light rays",
+        "It diverges light rays",
+        "It has a large aperture",
+        "It reflects light"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "It diverges light rays",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de1e"
+      },
+      "question": "When a ray passes through the centre of curvature of a mirror, it reflects along the same path. Why?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It strikes at an angle",
+        "It strikes perpendicular to the surface",
+        "It bends due to refraction",
+        "It gets absorbed"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "It strikes perpendicular to the surface",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de1f"
+      },
+      "question": "A convex lens forms a real, inverted image when object is beyond F. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It diverges rays",
+        "It reflects rays",
+        "It converges rays at a point",
+        "It refracts rays away"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "It converges rays at a point",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.727Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de20"
+      },
+      "question": "Refraction of light causes a pencil in water to appear bent. Justify this observation.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Reflection from the surface",
+        "Change in light direction due to speed change",
+        "Prism effect",
+        "Lateral inversion"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Change in light direction due to speed change",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de21"
+      },
+      "question": "A concave mirror is used in solar cookers. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It magnifies the sun",
+        "It disperses sunlight",
+        "It focuses sunlight at one point",
+        "It reflects sunlight randomly"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "It focuses sunlight at one point",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de22"
+      },
+      "question": "The image formed by a plane mirror is laterally inverted. Why?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Mirror reverses the size",
+        "Mirror bends the light",
+        "Mirror reverses left and right",
+        "Mirror creates a virtual image"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Mirror reverses left and right",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de23"
+      },
+      "question": "Convex lenses are used in projectors. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They form erect images",
+        "They create virtual images",
+        "They diverge rays",
+        "They form real, magnified images"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "They form real, magnified images",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de24"
+      },
+      "question": "Total internal reflection occurs only when light moves from denser to rarer medium. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Only rarer media bend rays",
+        "Light always reflects",
+        "Refracted ray bends away and may reflect fully",
+        "Light slows down"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Refracted ray bends away and may reflect fully",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de25"
+      },
+      "question": "Magnifying glasses use convex lenses. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They create multiple images",
+        "They reduce image size",
+        "They form virtual, enlarged images",
+        "They reflect light"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "They form virtual, enlarged images",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de26"
+      },
+      "question": "Concave lenses are used in peepholes. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They form large images",
+        "They reflect light",
+        "They focus rays",
+        "They form diminished, erect images"
+      ],
+      "correctOptionIndex": 3,
+      "answerKeyword": null,
+      "correctAnswer": "They form diminished, erect images",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de27"
+      },
+      "question": "Refractive index determines how much light bends. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It depends on color",
+        "It depends on thickness",
+        "It relates to light’s speed in medium",
+        "It is a fixed number"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "It relates to light’s speed in medium",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de28"
+      },
+      "question": "An object appears raised in water due to refraction. Explain.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Water reflects images",
+        "Water scatters rays",
+        "Light bends away from the normal",
+        "Light bends towards the normal"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Light bends away from the normal",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de29"
+      },
+      "question": "Virtual images cannot be obtained on a screen. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They are too small",
+        "They don’t really exist at a location",
+        "They move fast",
+        "They are behind the object"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "They don’t really exist at a location",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de2a"
+      },
+      "question": "A convex mirror never forms a real image. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It absorbs light",
+        "It doesn’t reflect light",
+        "Reflected rays always diverge",
+        "Light passes through it"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Reflected rays always diverge",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de2b"
+      },
+      "question": "Refractive index of water is 1.33. What does this indicate?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Light slows down 1.33 times in air",
+        "Light slows down in water compared to vacuum",
+        "Water bends light by 1.33 degrees",
+        "Light speed is same in water and air"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "Light slows down in water compared to vacuum",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de2c"
+      },
+      "question": "A convex lens converges light. Justify with application.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Used in peepholes",
+        "Used in headlamps",
+        "Used in magnifiers and cameras",
+        "Used in wall mirrors"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Used in magnifiers and cameras",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de2d"
+      },
+      "question": "Concave mirrors are used by ENT doctors. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They create a wide field of view",
+        "They form diminished images",
+        "They magnify close images",
+        "They produce real images"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "They magnify close images",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de2e"
+      },
+      "question": "A prism splits white light into colors. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Because of total internal reflection",
+        "Because light slows down",
+        "Because of dispersion",
+        "Because of reflection"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Because of dispersion",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de2f"
+      },
+      "question": "Light bends more in glass than in water. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Glass has more thickness",
+        "Water is denser",
+        "Glass has higher refractive index",
+        "Light travels faster in glass"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Glass has higher refractive index",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de30"
+      },
+      "question": "The image in a plane mirror is laterally inverted. Justify with example.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "The letters look reversed in a mirror",
+        "Mirror reduces size",
+        "Mirror forms real image",
+        "Mirror does not reflect"
+      ],
+      "correctOptionIndex": 0,
+      "answerKeyword": null,
+      "correctAnswer": "The letters look reversed in a mirror",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de31"
+      },
+      "question": "Light bends when it enters a different medium. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Its frequency changes",
+        "Its color changes",
+        "Its speed changes",
+        "Its direction is fixed"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Its speed changes",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de32"
+      },
+      "question": "The human eye uses a convex lens. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It needs diverging rays",
+        "It reflects light",
+        "It focuses light on retina",
+        "It forms virtual images"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "It focuses light on retina",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.729Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de33"
+      },
+      "question": "Myopia is corrected using concave lenses. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They converge light rays",
+        "They bend rays away to focus on retina",
+        "They create virtual images",
+        "They block excess light"
+      ],
+      "correctOptionIndex": 1,
+      "answerKeyword": null,
+      "correctAnswer": "They bend rays away to focus on retina",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.729Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de34"
+      },
+      "question": "The focal length of a concave lens is always negative. Why?",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "It converges light",
+        "It bends light to the axis",
+        "It diverges light and focus is virtual",
+        "It forms real images"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "It diverges light and focus is virtual",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.729Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de35"
+      },
+      "question": "Concave mirrors are used in torch reflectors. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "They magnify objects",
+        "They scatter light",
+        "They form parallel beams when bulb is at focus",
+        "They invert the image"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "They form parallel beams when bulb is at focus",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.729Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de36"
+      },
+      "question": "In water, a straight object appears bent at the surface. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Water surface is curved",
+        "Water reflects the object",
+        "Due to refraction of light",
+        "The object moves in water"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Due to refraction of light",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.729Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882524b23f85f402157de37"
+      },
+      "question": "A convex lens forms a virtual image only when the object is closer than focal length. Justify.",
+      "questionType": "MCQ",
+      "image": null,
+      "options": [
+        "Rays cross after lens",
+        "Rays diverge before focus",
+        "Rays appear to diverge from a point",
+        "Lens is thick"
+      ],
+      "correctOptionIndex": 2,
+      "answerKeyword": null,
+      "correctAnswer": "Rays appear to diverge from a point",
+      "mark": 1,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T15:33:31.729Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "688261d923f85f402157e280"
+      },
+      "question": "Explain with a ray diagram how a concave mirror forms a real, inverted and magnified image when the object is placed between F and C.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Concave mirror, Real image, Inverted,Enlarged,Focus, Centre of curvature \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/eb368e7b-7407-4f26-833c-30ca9fbea574.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:39:53.283Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "688262a223f85f402157e33c"
+      },
+      "question": "Define the principal focus of a concave mirror. Draw a ray diagram to show how light rays converge at the focus.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Principal focus, Concave mirror, Parallel rays, Converge, Reflection, Focal point  \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/34650492-cced-4c29-833e-cfb07f6c4b00.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:43:14.623Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "688263f023f85f402157e3fa"
+      },
+      "question": "Explain how refraction occurs at the boundary between two media with a labelled diagram. ",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Refraction, Optical density, Normal, Refracted ray, Medium, Refractive index \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/90cfbf9e-f9ca-4c90-8e64-b896f2758f59.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:48:48.754Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882644d23f85f402157e4a7"
+      },
+      "question": "A ray of light passes through a rectangular glass slab. Explain with diagram why the emergent ray is parallel to the incident ray",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Rectangular slab, Refraction, Parallel ray, Lateral shift, Denser medium, Emergent ray \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/e2de49c1-ca3b-4327-9e35-9191ae7fd45c.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:50:21.162Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "688264ad23f85f402157e54f"
+      },
+      "question": "Draw a ray diagram to show the image formation by a convex lens when the object is at 2F. Describe the nature, size and position of the image",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Convex lens, Real image, Same size, Ray diagram, Object at 2F, Image formation  \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/8e1c8345-f5a1-4e45-b268-298a16836080.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:51:57.525Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882655823f85f402157e604"
+      },
+      "question": "How does lateral shift occur in a glass slab? Explain with a diagram based explanation",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Lateral shift, Refraction, Glass slab, Parallel ray, Optical path, Emergent ray\" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/73239d7b-e876-4bd5-ba73-00510eb01464.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:54:48.220Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882659223f85f402157e6ae"
+      },
+      "question": "Describe the image formation by a concave lens using ray diagrams for any object distance.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Concave lens, Virtual image, Ray diagram, Erect image, Diverging lens, Image position\" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/ef149ec7-01a1-41dd-b25f-f98b8ad5306d.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:55:46.281Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "688265d323f85f402157e759"
+      },
+      "question": "A convex lens forms an image of the same size as the object. Find the object position and explain with a diagram",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Convex lens, Object at 2F, Real image, Same size, Ray diagram, Image position\" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 2,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/98af4579-d8f9-4a6b-926d-8117e7341ef2.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:56:51.613Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882668023f85f402157e811"
+      },
+      "question": "With the help of ray diagrams, explain the image formation by a concave mirror for various positions of the object.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \" Concave mirror, Real image, Virtual image, Inverted, Enlarged, Ray diagram, Focus, Pole, Centre of curvature, Mirror\" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 5,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/f0478bca-d40e-4924-a17f-567a3a25fb88.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T16:59:44.157Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "688266dc23f85f402157e8c4"
+      },
+      "question": "Draw and explain the image formation in a convex lens for all object positions. Write characteristics of each image",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Convex lens, Real image, Virtual image, Inverted, Magnified, Focus, Principal axis, Optical centre, Refraction, Ray diagram \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 5,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/7fc55ed5-4686-488d-a4a3-58e6eafe84d3.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T17:01:16.588Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882672d23f85f402157e972"
+      },
+      "question": "A concave lens always forms a virtual, erect and diminished image. Explain with reasons and a diagram. Mention its applications",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \"Concave lens, Diverging, Virtual image, Diminished, Refraction, Optical centre, Ray diagram, Myopia, Upright image, \nApplication \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 5,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/6aa19297-0ce7-4743-8c1c-2ed16e6f5204.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T17:02:37.083Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "688267ce23f85f402157ea2d"
+      },
+      "question": "Why does a pencil appear broken when immersed in water at an angle? Justify the observation using ray diagrams and concept of refraction",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \" Refraction, Apparent depth, Bending light, Pencil in water, Water-air interface, Normal, Ray diagram, Optical illusion, Medium change, Light path \" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 5,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/ba3be802-b8c1-4c40-a7c2-3f018308134d.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T17:05:18.288Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6882680f23f85f402157eadd"
+      },
+      "question": "A student observes the Sun’s image on a paper through a convex lens and burns the paper. Explain the scientific principle, safety precautions and energy conversion involved.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "[ \" Convex lens, Sunlight, Convergence, Focal point, Light to heat, Solar energy, Safety, Real image, Experiment, Ignition\" ]"
+      ],
+      "correctAnswer": "",
+      "mark": 5,
+      "answerImage": [
+        "https://studysmartdocuments.s3.ap-south-1.amazonaws.com/questionsdiagrams/e54b550d-ccb0-4b4c-95b7-371c9e69eb4d.png"
+      ],
+      "createdAt": {
+        "$date": "2025-07-24T17:06:23.015Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebdb"
+      },
+      "question": "An object 2 cm high is placed at 12 cm in front of a concave mirror of focal length 8 cm. Use mirror formula to find the position, nature and size of the image.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Mirror formula, Concave mirror, Image distance, Magnification, Real image, Inverted"
+      ],
+      "correctAnswer": "Using the mirror formula: 1/f = 1/v + 1/u Given: f = –8 cm, u = –12 cm 1/v = 1/–8 – 1/–12 = (–3 + 2)/24 = –1/24 → v = –24 cm The negative sign means the image is formed on the same side as the object, which means it is real. Magnification m = –v/u = –(–24)/(–12) = –2 → image height = m × object height = –2 × 2 = –4 cm So, the image is real, inverted and magnified 2 times.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.076Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebdc"
+      },
+      "question": "A convex lens of focal length 20 cm forms an image of an object placed 30 cm from the lens. Find the image position and nature of image.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Lens formula, Real image, Inverted, Image distance, Magnification"
+      ],
+      "correctAnswer": "Using the lens formula: 1/f = 1/v – 1/u. Given: f = +20 cm, u = –30 cm. 1/v = 1/20 + 1/30 = (3 + 2)/60 = 5/60 → v = 12 cm. The positive value of v means the image is formed on the opposite side of the lens. Magnification m = v/u = 12/(–30) = –0.4. Thus, the image is real, inverted and diminished in size.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.077Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebdd"
+      },
+      "question": "Assertion (A): A convex mirror is preferred for use in vehicles. Reason (R): Convex mirrors form real images. \n A) Both A and R are true and R is the correct explanation of A \n B) Both A and R are true but R is not the correct explanation of A \n C) A is true but R is false \n D) A is false but R is true",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex mirror, Virtual image, Wide view, Vehicles, Assertion, Reasoning"
+      ],
+      "correctAnswer": "C) A is true but R is false Explanation: Convex mirrors are used in vehicles because they provide a wide field of view. However, they do not form real images; they form virtual, erect and diminished images. Hence, the reason is incorrect though the assertion is true.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.077Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebde"
+      },
+      "question": "Assertion (A): Light bends when it enters a different medium. Reason (R): The speed of light changes in different media. A) Both A and R are true and R is the correct explanation of A B) Both A and R are true but R is not the correct explanation of A C) A is true but R is false D) A is false but R is true",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Refraction, Speed of light, Medium, Bending, Assertion, Reasoning"
+      ],
+      "correctAnswer": "A) Both A and R are true and R is the correct explanation of A Explanation: Refraction occurs because the speed of light is different in different media. When light enters a new medium at an angle, the change in speed causes the light to change direction (bend).",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.077Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebdf"
+      },
+      "question": "Assertion (A): A concave mirror can form a magnified, virtual image. Reason (R): Concave mirrors only form real images. A) Both A and R are true and R is the correct explanation of A B) Both A and R are true but R is not the correct explanation of A C) A is true but R is false D) A is false but R is true.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, Virtual image, Magnified, Image position, Assertion, Real image"
+      ],
+      "correctAnswer": "C) A is true but R is false \n Explanation: Concave mirrors can form both real and virtual images depending on object position. A magnified, virtual image is formed when the object is placed between the pole and the focus. Hence, the reason is incorrect.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.077Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe0"
+      },
+      "question": "A convex mirror is used for security in shops. Explain how its image characteristics make it suitable for this use.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex mirror, Security, Wide field of view, Diminished image, Virtual, Surveillance"
+      ],
+      "correctAnswer": "A convex mirror always forms a virtual, erect, and diminished image of objects, regardless of their position. Its most important feature is that it provides a wider field of view than any other type of mirror, which is essential for surveillance. The curvature causes rays from different angles to be reflected toward the observer. This allows shopkeepers to monitor large areas through a single mirror mounted at an elevated point. Though the image is small, it is sufficient for detection of movement or presence.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.078Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe1"
+      },
+      "question": "An object is placed at a distance of 10 cm from a concave mirror with focal length 15 cm. Find the position and nature of the image.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, Virtual image, Mirror formula, Magnification, Image distance, Focal length"
+      ],
+      "correctAnswer": "Using the mirror formula: 1/f = 1/v + 1/u → f = –15 cm, u = –10 cm 1/v = 1/–15 – 1/–10 = (–2 + 3)/30 = 1/30 → v = +30 cm Since the image distance (v) is positive, it indicates that the image is formed behind the mirror, and is therefore virtual. Also, magnification m = v/u = –30/(–10) = +3, so the image is magnified and erect.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.078Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe2"
+      },
+      "question": "How can you use a convex lens to burn a paper? Explain with reason and conditions required.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Burning, Focus, Convergence, Sunlight, Energy concentration"
+      ],
+      "correctAnswer": "A convex lens can focus sunlight to a single point known as the principal focus. To burn paper, the lens must be held so that the paper lies exactly at the focus of the lens. This is where parallel rays of sunlight converge after passing through the lens. At this point, the light’s energy is concentrated, increasing the temperature. If the lens has a short focal length, the heat is more intense. The process demonstrates the converging property of convex lenses.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.078Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe3"
+      },
+      "question": "A student wants to use a concave mirror as a shaving mirror. At what position should he keep his face and why?",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, Shaving mirror, Virtual image, Magnified, Image position, Grooming"
+      ],
+      "correctAnswer": "To use a concave mirror for shaving, the object (face) must be placed between the pole (P) and focus (F) of the mirror. In this position, the mirror forms an image that is virtual, erect, and magnified. This is suitable for grooming purposes because it allows clear and enlarged view of facial features. If the object were beyond focus, the image would be real and inverted, which is not useful.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.079Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe4"
+      },
+      "question": "Design a method to determine the focal length of a convex lens using sunlight.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Focal length, Sunlight, Parallel rays, Sharp image, Convergence"
+      ],
+      "correctAnswer": "To determine the focal length of a convex lens, place the lens in direct sunlight and hold a white paper behind it. Adjust the distance between the paper and the lens until a sharp, bright spot (image of the Sun) appears on  the paper. Measure the distance from the lens to the paper; this is the focal length of the lens. This works because sunlight consists of parallel rays which converge at the focal point after passing through the convex lens.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.079Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe5"
+      },
+      "question": "A 5 cm high object is placed at 25 cm from a convex lens of focal length 10 cm. Calculate image distance, magnification and describe the image.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Real image, Inverted, Magnification, Image height, Lens formula"
+      ],
+      "correctAnswer": "Given: u = –25 cm, f = +10 cm Using lens formula: 1/v = 1/f + 1/u = 1/10 – 1/25 = (5 – 2)/50 = 3/50 → v = 16.7 cm Magnification m = v/u = 16.7/–25 = –0.67 Image height = m × object height = –0.67 × 5 = –3.35 cm Hence, the image is real, inverted and smaller in size than the object.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.079Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe6"
+      },
+      "question": "Explain why a coin in water appears to be raised. Support your answer with refraction concepts.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Refraction, Apparent depth, Coin in water, Optical illusion, Light bending, Medium change"
+      ],
+      "correctAnswer": "A coin placed at the bottom of a glass filled with water appears raised due to the refraction of light. As light rays pass from water (denser medium) to air (rarer medium), they bend away from the normal. Our brain assumes light travels in a straight line, so it traces the rays back in a straight path, making the object appear at a higher position than it really is. This is a common example of optical illusion caused by refraction.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.080Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe7"
+      },
+      "question": "A ray of light enters from air into glass and then into water. Describe the path of light with justification.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Refraction, Air to glass, Glass to water, Optical density, Refractive index, Light path"
+      ],
+      "correctAnswer": "When a ray of light enters from air into glass, it bends towards the normal because glass is denser. As it passes from glass to water, it bends away from the normal, since water is optically less dense than glass. The overall bending depends on the refractive indices of the materials. Each change in medium causes the ray to change direction due to variation in light speed. The final emergent ray depends on the relative optical densities.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.081Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe8"
+      },
+      "question": "A convex mirror gives a virtual image at a distance of 10 cm behind the mirror. The object is placed 30 cm in front. Calculate the focal length.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex mirror, Virtual image, Mirror formula, Focal length, Object distance, Image distance"
+      ],
+      "correctAnswer": "UUsing mirror formula: 1/f = 1/v + 1/u Given: v = +10 cm (virtual image), u = –30 cm 1/f = 1/10 – 1/30 = (3 – 1)/30 = 2/30 = 1/15 → f = 15 cm Since it is a convex mirror, focal length = +15 cm Hence, the mirror has a focal length of +15 cm and forms a virtual, erect, diminished image.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.081Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebe9"
+      },
+      "question": "Justify why convex lenses are used in spectacles for hypermetropia.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Hypermetropia, Convex lens, Farsightedness, Spectacles, Image correction, Retina"
+      ],
+      "correctAnswer": "Hypermetropia or farsightedness occurs when the image of a nearby object forms behind the retina. This happens when the eye lens is too flat or the eyeball is too short. A convex lens converges light rays before they enter the eye, so they are focused correctly on the retina. The converging nature of the convex lens compensates for the eye’s weak focusing power.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.083Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebea"
+      },
+      "question": "Explain how a convex lens acts as a magnifying glass. Under what conditions does this occur?",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Magnification, Virtual image, Erect, Close object, Magnifying glass"
+      ],
+      "correctAnswer": "A convex lens acts as a magnifying glass when the object is placed between the lens and its focus. In this position, the lens forms a virtual, erect and magnified image on the same side of the lens. The lens must be held close to the object and the viewer’s eye. This is used in magnifiers, watches, and reading glasses to observe small details.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.083Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebeb"
+      },
+      "question": "Why does light bend at the interface of two different media? Explain using the wave speed concept.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Refraction, Wave speed, Bending, Optical density, Snell’s law, Medium interface"
+      ],
+      "correctAnswer": "Light bends at the interface of two media due to a change in its speed. When light enters a medium with different optical density, its velocity changes, causing the direction to change. If it enters a denser medium, it slows down and bends toward the normal. If it enters a rarer medium, it speeds up and bends away from the normal. This bending is called refraction and is explained by Snell’s law.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.083Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebec"
+      },
+      "question": "A driver uses a convex mirror as a side mirror. Justify why this is better than using a plane or concave mirror.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex mirror, Side mirror, Wide view, Diminished image, Safety, Vehicle"
+      ],
+      "correctAnswer": "Convex mirrors are preferred for side mirrors in vehicles because they provide a wider field of view. This allows the driver to see more of the road and surrounding area, improving safety. Unlike concave mirrors, convex mirrors do not invert the image and always provide an upright, virtual and diminished image. This makes them useful for detecting nearby vehicles without confusion. Plane mirrors, in contrast, offer a limited field of view and cannot cover blind spots.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.084Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebed"
+      },
+      "question": "A spoon appears distorted when placed in a glass of water. Justify your observation using refraction.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Spoon in water, Refraction, Apparent shift, Light bending, Optical illusion, Distortion"
+      ],
+      "correctAnswer": "When a spoon is partially submerged in water, the part inside appears bent or displaced. This is due to the refraction of light as it moves from water to air. The light rays coming from the submerged portion bend away from the normal, causing the apparent position to shift. Our eyes trace back the refracted rays in a straight line, resulting in a visually distorted image. The effect is more noticeable at oblique viewing angles.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.084Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebee"
+      },
+      "question": "While looking into a concave mirror, your face appears magnified and upright. Justify how this happens.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, Magnified image, Upright image, Virtual, Close object, Facial view"
+      ],
+      "correctAnswer": "When your face is close to a concave mirror, specifically between the pole and the focus, the reflected rays diverge but appear to originate from a point behind the mirror. This forms a virtual, erect and magnified image. The mirror's inward curvature causes rays to reflect in a way that produces this enlargement. This property is used in shaving and makeup mirrors, where a detailed view of the face is needed.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.084Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebef"
+      },
+      "question": "Why is a convex lens used in reading glasses for old-age hypermetropic people? Justify your answer.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Hypermetropia, Old age, Focusing, Reading glasses, Retina"
+      ],
+      "correctAnswer": "With age, the eye lens loses flexibility and cannot converge light rays from nearby objects effectively. This condition is called hypermetropia. A convex lens helps by converging the incoming light rays before they enter the eye, so they focus on the retina instead of behind it. The lens compensates for the weak accommodation power of the eye. This allows the person to see nearby objects clearly.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.085Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf0"
+      },
+      "question": "A glass slab does not deviate the emergent ray from the original path. Justify how this happens.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Glass slab, Emergent ray, Refraction, Parallel ray, Lateral shift, Light path"
+      ],
+      "correctAnswer": "When light passes through a rectangular glass slab, it refracts twice: once when entering and once when leaving. The first refraction bends the ray toward the normal, and the second bends it away from the normal. The two deviations cancel each other out, and the emergent ray becomes parallel to the incident ray, though it undergoes lateral shift. This behavior is unique to rectangular slabs due to their parallel sides.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.085Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf1"
+      },
+      "question": "Why does a convex lens form a virtual and enlarged image only when the object is closer than the focal length?",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Virtual image, Focal length, Enlarged, Diverging rays, Image formation"
+      ],
+      "correctAnswer": "A convex lens can only form a virtual and enlarged image when the object is placed between the optical centre and the focal point. In this case, the rays diverge after refraction and do not meet on the other side of the lens. However, if extended backward, they appear to come from a point behind the lens. This makes the image virtual and larger. Beyond the focal length, the lens forms real and inverted images.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.085Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf2"
+      },
+      "question": "While looking at a fish in a pond, it appears at a different location than it actually is. Justify.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Refraction, Apparent depth, Fish in water, Light bending, Optical illusion, Water interface"
+      ],
+      "correctAnswer": "This is due to the refraction of light at the water-air interface. The light rays coming from the fish bend away from the normal as they pass into air. Our brain traces the rays in a straight line, placing the image of the fish at a higher, incorrect position. As a result, the fish appears closer to the surface than it actually is. This is a classic example of apparent depth caused by refraction.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.086Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf3"
+      },
+      "question": "A magnifying glass must be held close to an object to work. Justify the reason based on lens behavior.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Magnifying glass, Convex lens, Virtual image, Enlarged, Close object, Focal point"
+      ],
+      "correctAnswer": "A magnifying glass is a convex lens used to produce a virtual and enlarged image of a small object. For this to happen, the object must be placed between the lens and its focal point. At this distance, the rays diverge after refraction and appear to come from a larger image on the same side as the object. Holding the lens close ensures a bigger virtual image, which is essential for reading or examining fine details.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.086Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf4"
+      },
+      "question": "Explain why a concave mirror is used in solar concentrators. Justify your answer with light behavior.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, Solar concentrator, Focus, Convergence, Sunlight, Heat generation"
+      ],
+      "correctAnswer": "Concave mirrors can focus parallel rays of sunlight to a single point known as the focus. In solar concentrators, this property is used to collect and concentrate solar energy at a point to produce high temperatures. The mirror’s parabolic shape ensures that all incoming sunlight is reflected and converged efficiently. This concentrated energy can be used for heating, cooking or generating steam.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.086Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf5"
+      },
+      "question": "A real image can be captured on a screen, but a virtual one cannot. Justify with reference to ray behavior.",
+      "questionType": "Short Answer",
+      "image": null,
+      "answerKeyword": [
+        "Real image, Virtual image, Screen, Light rays, Converge, Diverge"
+      ],
+      "correctAnswer": "A real image is formed when light rays actually converge at a point after reflection or refraction. Since the rays meet at a physical location, the image can be projected onto a screen. A virtual image, on the other hand, is formed when the rays only appear to meet but don’t actually intersect. Therefore, virtual images cannot be projected or captured on a screen; they can only be seen by looking into the optical device.",
+      "mark": 2,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.086Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf6"
+      },
+      "question": "Assertion (A): A concave mirror is used in solar cookers. Reason (R): Concave mirrors can diverge light rays falling on them. Choose the correct option and justify your answer.\n A) Both A and R are true, and R is the correct explanation of A \n B) Both A and R are true, but R is not the correct explanation of A \n C) A is true but R is false \n D) A is false but R is true",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, Solar cooker, Assertion-Reason, Converging mirror, Sunlight, Focus, Heat, Reflection, Real image, Energy concentration"
+      ],
+      "correctAnswer": "Correct option: C) A is true but R is false Concave mirrors are used in solar cookers because they converge parallel rays of sunlight to a single point – the focus. This concentration of light increases the temperature, allowing cooking of food. The reason is incorrect because concave mirrors do not diverge light; convex mirrors do. The ability of a concave mirror to focus energy at one point makes it suitable for solar applications.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.087Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf7"
+      },
+      "question": "Assertion (A): A virtual image can never be obtained on a screen. Reason (R): A virtual image is formed by converging light rays at a point. Choose the correct option and justify your answer. \n A) Both A and R are true, and R is the correct explanation of A \n B) Both A and R are true, but R is not the correct explanation of A \n C) A is true but R is false \n D) A is false but R is true",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Virtual image, Real image, Assertion-Reason, Converging rays, Diverging rays, Mirror, Lens, Screen, Reflection, Refraction"
+      ],
+      "correctAnswer": "Correct option: C) A is true but R is false \n Virtual images cannot be captured on screens because they are not formed by actual convergence of rays. Instead, they are formed by the apparent divergence of rays. The rays do not meet; they only appear to do so when extended backward. Thus, the image appears behind the mirror or lens and cannot be projected. The assertion is correct, but the reason is wrong.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.087Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf8"
+      },
+      "question": "A torch uses a concave mirror, while a car’s rearview mirror is convex. Justify the use of each mirror with image properties.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, Convex mirror, Torch, Rearview mirror, Field of view, Parallel rays, Virtual image, Real image, Diminished, Application"
+      ],
+      "correctAnswer": "A torch uses a concave mirror to produce a strong, parallel beam of light. The bulb is placed at the focus, and the concave surface reflects the diverging light rays into parallel rays. This creates a concentrated beam for long-distance visibility. \n In contrast, a rearview mirror in vehicles is convex. It always forms virtual, erect, and diminished images. Its wider field of view allows the driver to see more of the road and reduces blind spots. Though the image is smaller, it is more informative. Convex mirrors do not form real images and cannot focus light. \n Thus, concave mirrors are used for focused light projection, and convex mirrors for broad field visibility.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.087Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebf9"
+      },
+      "question": "Explain how the lens formula is derived and how it helps in understanding image position in lenses. Give an example.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "1/f = 1/v – 1/u, Refraction, Focal length, Image distance, Object distance, Convex lens, Sign convention, Real image, Optics, 30 cm"
+      ],
+      "correctAnswer": "The lens formula is: \n 1/f = 1/v – 1/u, where: \n • f = focal length of the lens \n • v = image distance from optical centre \n • u = object distance from optical centre The sign convention used is similar to mirrors: \n • All distances are measured from the optical centre. \n • Distances toward the left are negative, to the right are positive. The formula is derived using geometry and the laws of refraction. It helps calculate the unknown image or object distance, given two of the three quantities.\n Example: A convex lens of focal length 15 cm forms an image at 30 cm. Find the object position. \n 1/f = 1/v – 1/u → 1/15 = 1/30 – 1/u → 1/u = 1/30 – 1/15 = –1/30 → u = –30 cm \n So, object is 30 cm left of the lens.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.087Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebfa"
+      },
+      "question": "A convex lens of focal length 20 cm forms an image at 30 cm from the lens. Find the object distance, image type, and magnification. Explain your answer with reasoning.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "60 cm left of the lens, Focal length, 1/f = 1/v – 1/u, Real image, Inverted, Diminished, F and 2F, Object distance, –0.5, smaller image"
+      ],
+      "correctAnswer": "Given: f = +20 cm, v = +30 cm \nUsing lens formula: \n 1/f = 1/v – 1/u 1/20 = 1/30 – 1/u → 1/u = 1/30 – 1/20 = (2 – 3)/60 = –1/60 → u = –60 cm \n Object is 60 cm left of the lens. \n Magnification (m) = v/u = 30/(–60) = –0.5 \n The negative magnification indicates that the image is real and inverted. \n The magnitude (0.5) shows that it is diminished. The convex lens, when the object is beyond 2F, produces a real, inverted and smaller image between F and 2F.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.088Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebfc"
+      },
+      "question": "Justify why concave mirrors are used by ENT doctors during ear and nose examinations. Explain the physics behind this application.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Concave mirror, ENT doctor, Virtual image, Magnification, Focus, Pole, Medical application, Reflection, Light convergence, Erect image"
+      ],
+      "correctAnswer": "ENT specialists use concave mirrors because of their ability to form virtual, erect, and magnified images when the object is placed between the mirror's pole and focus. The mirror reflects the light from a head-mounted source onto the specific part of the patient’s body being examined — usually the ear, nose, or throat. The concave mirror not only concentrates the light onto a small area (focusing property) but also allows the doctor to see an enlarged, upright image of the affected region. Because the mirror is mounted with a central hole (for the doctor's eye), it combines illumination and magnification. The image appears behind the mirror, making internal structures more visible without distortion. This setup improves precision in diagnosis and treatment. Unlike convex mirrors, concave mirrors can form real or virtual images, making them versatile for medical use.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.088Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebfd"
+      },
+      "question": "Justify why an object submerged in water appears to be raised. Derive the relation between real and apparent depth.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Refraction, Apparent depth, Real depth, Water-air interface, Refractive index, Light bending, Optical illusion, Medium change, Raised image, Derivation"
+      ],
+      "correctAnswer": "An object under water appears raised because of refraction at the water air interface. Light rays coming from the object bend away from the normal as they move from water (denser) to air (rarer). Due to this, the brain traces the refracted rays in a straight line backward, perceiving the object at a shallower depth — this is called apparent depth. The relationship is: Apparent depth / Real depth = 1 / Refractive index So, if the refractive index of water is 4/3 and real depth is 12 cm, the object appears at 9 cm. This phenomenon has practical implications in activities like spearfishing, where one has to aim below the apparent position of the fish to hit the real target. It also explains why swimming pool bottoms look closer than they are.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.089Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebfe"
+      },
+      "question": "Justify the use of a convex mirror in ATMs and elevators. How does its geometry help in practical situations?",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex mirror, Wide view, Virtual image, Security, Diminished image, ATM, Elevator, Safety, Surveillance, Reflection"
+      ],
+      "correctAnswer": "Convex mirrors are used in ATMs, elevators, and hallways because they provide a wide field of view. Their outward-curved surface reflects light rays in such a way that they appear to diverge from a point behind the mirror. This results in the formation of virtual, erect, and diminished images — though smaller, they cover a larger area. This allows users and security personnel to monitor surroundings and check for safety, especially in blind corners. Due to the mirror's geometry, even a small convex mirror can display wide angle views, making it ideal for areas with limited space. The image is not distorted and allows real-time monitoring of people approaching or standing nearby. In elevators, these mirrors help passengers see who is behind them, reducing risks and improving security.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.089Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ebff"
+      },
+      "question": "Justify the role of refraction in designing lenses for optical instruments like telescopes and microscopes.",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Refraction, Lens, Microscope, Telescope, Optical instruments, Convex lens, Real image, Converging rays, Eyepiece, Objective lens"
+      ],
+      "correctAnswer": "Refraction is the key principle in the functioning of optical instruments such as microscopes, telescopes, cameras, and magnifiers. When light passes from one medium to another (e.g., air to glass), it changes direction — this is refraction. In a convex lens, parallel rays converge at the focus, forming real, inverted images which can be projected or magnified. In microscopes, two or more convex lenses are used: the objective lens forms a real image which is magnified again by the eyepiece. In telescopes, lenses or mirrors gather distant light and refract it to form a real image, which is magnified. This is possible only because the materials (glass/plastic) are optically denser, allowing light to slow down and bend inside them. Careful design using the lens maker’s formula and understanding of refraction allows accurate image formation and magnification.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.089Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "68826b3e23f85f402157ec00"
+      },
+      "question": "Justify why the image of the sun formed by a convex lens on a paper is real and inverted. How does the lens behave in this context?",
+      "questionType": "Long Answer",
+      "image": null,
+      "answerKeyword": [
+        "Convex lens, Sun image, Real image, Inverted, Focus, Convergence, Solar energy, Burning, Paper, Parallel rays"
+      ],
+      "correctAnswer": "The Sun’s rays are effectively parallel when they reach the Earth due to its large distance. When these rays pass through a convex lens, they converge at the principal focus, forming a real image on the paper. This real image is inverted (though the Sun appears circular) and can even burn the paper due to energy concentration. The lens in this scenario is acting as a converging lens, converting parallel rays into focused rays meeting at a point. The image is visible because the light rays actually meet at the focal point. This principle is also applied in solar concentrators, which use convex lenses to convert solar energy into heat energy. Such real images can only be captured on a screen, proving their physical existence.",
+      "mark": 5,
+      "answerImage": null,
+      "createdAt": {
+        "$date": "2025-07-24T17:19:58.089Z"
+      }
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-07-24T15:33:31.736Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T17:19:58.131Z"
+  },
+  "__v": 14
+}

@@ -1,0 +1,2062 @@
+
+MULTIPLE CHOICE QUESTIONS
+
+1. What type of mirror is used in torches and headlights of vehicles?
+A) Plane mirror
+B) Concave mirror
+C) Convex mirror
+D) None of these
+-----------------------------
+Answer: B) Concave mirror
+
+2. A ray parallel to the principal axis of a concave mirror passes through
+which point after reflection?
+A) Pole
+B) Centre of curvature
+C) Focus
+D) Aperture
+-----------------------------
+Answer: C) Focus
+
+3. If the radius of curvature of a spherical mirror is 30 cm, its focal length
+is:
+A) 15 cm
+B) 30 cm
+C) 45 cm
+D) 60 cm
+-----------------------------
+Answer: A) 15 cm
+
+4. A convex mirror forms an image that is always:
+A) Real and inverted
+B) Virtual and erect
+C) Real and erect
+D) Virtual and inverted
+-----------------------------
+Answer: B) Virtual and erect
+
+5. Which mirror can form a magnified virtual image?
+A) Convex mirror
+B) Plane mirror
+C) Concave mirror
+D) All of these
+-----------------------------
+Answer: C) Concave mirror
+
+6. In spherical mirrors, the pole is:
+A) The center of the mirror
+B) A point on the principal axis
+C) A point on the surface of the mirror
+D) None of these
+-----------------------------
+Answer: C) A point on the surface of the mirror
+
+7. The unit of power of a lens is:
+A) Metre
+B) Dioptre
+C) Centimetre
+D) Watt
+-----------------------------
+Answer: B) Dioptre
+
+8. The power of a lens with focal length 50 cm is:
+A) +2 D
+B) +1 D
+C) +0.5 D
+D) +3 D
+-----------------------------
+Answer: B) +2 D
+
+9. If a ray passes through the centre of curvature of a concave mirror, it
+is:
+A) Reflected through focus
+B) Reflected back on the same path
+C) Reflected through pole
+D) Not reflected
+-----------------------------
+Answer: B) Reflected back on the same path
+
+10. Refraction occurs due to:
+A) Change in frequency of light
+B) Change in direction of light
+C) Change in speed of light
+D) Both B and C
+-----------------------------
+Answer: D) Both B and C
+
+11. The magnification produced by a mirror is -2. This implies the image
+is:
+A) Virtual and erect
+B) Virtual and diminished
+C) Real and inverted
+D) Real and erect
+-----------------------------
+Answer: C) Real and inverted
+
+12. The principal focus of a convex mirror is:
+A) In front of the mirror
+B) Behind the mirror
+C) On the mirror surface
+D) At the center of curvature
+-----------------------------
+Answer: B) Behind the mirror
+
+13. A light ray passing through the principal focus of a concave mirror will
+reflect and travel:
+A) Parallel to the principal axis
+B) Through the pole
+C) To the center of curvature
+D) Along the same path
+-----------------------------
+Answer: A) Parallel to the principal axis
+
+14. Which of the following always forms a virtual and erect image?
+A) Concave mirror
+B) Convex mirror
+C) Convex lens
+D) Concave lens
+-----------------------------
+Answer: B) Convex mirror
+
+15. An object is placed 10 cm from a convex mirror of focal length 15 cm.
+The image will be:
+A) Real, inverted
+B) Virtual, erect, diminished
+C) Virtual, erect, enlarged
+D) Real, erect
+-----------------------------
+Answer: B) Virtual, erect, diminished
+
+16. A concave mirror is used in solar cookers because:
+A) It produces a virtual image
+B) It focuses sunlight to a point
+C) It does not reflect light
+D) It is flat and easy to clean
+-----------------------------
+Answer: B) It focuses sunlight to a point
+
+17. A ray incident obliquely at the pole of a mirror follows which law?
+A) Newton's Law
+B) Ohm’s Law
+C) Snell’s Law
+D) Law of reflection
+-----------------------------
+Answer: D) Law of reflection
+
+18. Which surface causes maximum reflection of light?
+A) White paper
+B) Wooden surface
+C) Highly polished metal
+D) Rough wall
+-----------------------------
+Answer: C) Highly polished metal
+
+19. A concave mirror is used by dentists because it forms:
+A) Diminished image
+B) Virtual, enlarged image
+C) Real, enlarged image
+D) Real, diminished image
+-----------------------------
+Answer: B) Virtual, enlarged image
+
+20. The image formed by a plane mirror is:
+A) Real, erect and same size
+B) Virtual, erect and same size
+C) Real, inverted and diminished
+D) Virtual, inverted and enlarged
+-----------------------------
+Answer: B) Virtual, erect and same size
+
+21. A person sees a virtual, inverted and diminished image. Which mirror
+is being used?
+A) Plane mirror
+B) Convex mirror
+C) Concave mirror
+D) Cylindrical mirror
+-----------------------------
+Answer: C) Concave mirror
+
+22. For a mirror, if image distance is positive, the image is formed:
+A) In front of mirror
+B) Behind the mirror
+C) Cannot say
+D) On the surface
+-----------------------------
+Answer: A) In front of mirror
+
+23. The radius of curvature of a spherical mirror is 24 cm. Its focal length
+is:
+A) 12 cm
+B) 24 cm
+C) 48 cm
+D) 6 cm
+-----------------------------
+Answer: A) 12 cm
+
+24. The image formed by a concave mirror is virtual and larger than the
+object. The object is located:
+A) Between P and F
+B) Beyond C
+C) At F
+D) At C
+-----------------------------
+Answer: A) Between P and F
+
+25. In rear-view mirrors, convex mirrors are used because they provide:
+A) Enlarged view
+B) Narrow view
+C) Wide field of view
+D) Real image
+-----------------------------
+Answer: C) Wide field of view
+
+26. The power of a concave lens is –2 D. Its focal length is:
+A) +0.5 m
+B) –0.5 m
+C) +2 m
+D) –2 m
+-----------------------------
+Answer: B) –0.5 m
+
+27. If the image formed by a mirror is real, inverted and of the same size
+as the object, the object is placed:
+A) At focus
+B) At infinity
+C) At centre of curvature
+D) Between focus and pole
+-----------------------------
+Answer: C) At centre of curvature
+
+28. A concave mirror of focal length 10 cm will form an image at infinity if
+the object is placed at:
+A) 5 cm
+B) 10 cm
+C) 20 cm
+D) Focus
+-----------------------------
+Answer: D) Focus
+
+29. When an object is placed at infinity, a concave mirror forms an image
+at:
+A) Infinity
+B) Centre of curvature
+C) Focus
+D) Pole
+-----------------------------
+Answer: C) Focus
+
+30. A virtual image larger than the object is always formed by a:
+A) Plane mirror
+B) Concave mirror
+C) Convex mirror
+D) Concave lens
+-----------------------------
+Answer: B) Concave mirror
+
+31. If a ray passes through the centre of curvature of a spherical mirror, it:
+A) Reflects back along the same path
+B) Passes through the focus
+C) Becomes parallel to principal axis
+D) Passes through the pole
+-----------------------------
+Answer: A) Reflects back along the same path
+
+32. What is the magnification of an image formed by a convex mirror if
+image distance is +6 cm and object distance is –12 cm?
+A) +2
+B) –2
+C) +0.5
+D) –0.5
+-----------------------------
+Answer: C) +0.5
+
+33. A convex mirror has a focal length of 20 cm. Where is the image
+formed when an object is 20 cm from the mirror?
+A) 20 cm in front
+B) 10 cm behind
+C) 40 cm behind
+D) 20 cm behind
+-----------------------------
+Answer: B) 10 cm behind
+
+34. An object is placed 10 cm from a convex lens with focal length 15 cm.
+The image formed will be:
+A) Virtual and diminished
+B) Real and inverted
+C) Real and magnified
+D) Virtual and magnified
+-----------------------------
+Answer: D) Virtual and magnified
+
+35. A ray of light entering obliquely from air to glass bends:
+A) Towards the normal
+B) Away from the normal
+C) Undeviated
+D) Along the surface
+-----------------------------
+Answer: A) Towards the normal
+
+36. Which device uses concave mirrors to concentrate sunlight?
+A) Periscope
+B) Solar furnace
+C) Microscope
+D) Telescope
+-----------------------------
+Answer: B) Solar furnace
+
+37. A lens forms a virtual image which is always diminished. The lens is:
+A) Convex
+B) Concave
+C) Cylindrical
+D) Plano-convex
+-----------------------------
+Answer: B) Concave
+
+38. Which of the following is true for image formed by a plane mirror?
+A) Virtual and magnified
+B) Real and inverted
+C) Virtual and same size
+D) Diminished and real
+-----------------------------
+Answer: C) Virtual and same size
+
+39. An erect image three times the size of the object is obtained using a
+mirror. The object is placed:
+A) Between pole and focus of concave mirror
+B) At centre of curvature
+C) In front of convex mirror
+D) At focus
+-----------------------------
+Answer: A) Between pole and focus of concave mirror
+
+40. Which lens is used in magnifying glasses?
+A) Concave
+B) Convex
+C) Plane
+D) Plano-concave
+-----------------------------
+Answer: B) Convex
+
+41. What is the refractive index of a medium in which light travels at 2 ×
+10⁸ m/s?
+A) 1.5
+B) 1.33
+C) 1.0
+D) 2.0
+-----------------------------
+Answer: A) 1.5
+
+42. The refractive index of diamond is 2.42. This means:
+A) Light slows down 2.42 times in diamond
+B) Diamond is transparent
+C) Light speeds up in diamond
+D) Light bends less in diamond
+-----------------------------
+Answer: A) Light slows down 2.42 times in diamond
+
+43. A concave mirror forms a real image of double the size of the object. If
+object is at 10 cm, image distance is:
+A) –10 cm
+B) –20 cm
+C) –5 cm
+D) +20 cm
+-----------------------------
+Answer: B) –20 cm
+
+44. The bending of light at the interface of two media is due to:
+A) Change in direction
+B) Change in speed
+C) Change in frequency
+D) Change in amplitude
+-----------------------------
+Answer: B) Change in speed
+
+45. A lens has a power of +4 D. Its focal length is:
+A) 0.25 m
+B) 25 cm
+C) Both A and B
+D) 4 m
+-----------------------------
+Answer: C) Both A and B
+
+46. What is the magnification of a plane mirror?
+A) 0
+B) +1
+C) –1
+D) Infinite
+-----------------------------
+Answer: B) +1
+
+47. The focal length of a convex lens is 10 cm. If an object is placed at 5
+cm, the image is:
+A) Real and inverted
+B) Virtual and erect
+C) Real and erect
+D) At infinity
+-----------------------------
+Answer: B) Virtual and erect
+
+48. A lens produces a magnification of –1. What type of lens and position
+of object?
+A) Convex, at 2F
+B) Concave, at 2F
+C) Convex, at F
+D) Concave, at infinity
+-----------------------------
+Answer: A) Convex, at 2F
+
+49. A concave lens has focal length –20 cm. What is its power?
+A) +5 D
+B) –5 D
+C) +2 D
+D) –2 D
+-----------------------------
+Answer: B) –5 D
+
+50. The image formed by a convex mirror of an object placed at infinity is:
+A) Real and diminished
+B) Virtual and erect
+C) Virtual, erect, point-sized
+D) Real and erect
+-----------------------------
+Answer: C) Virtual, erect, point-sized
+
+51. An object is placed 30 cm in front of a concave mirror with focal length
+15 cm. What will be the image distance and its nature?
+A) –30 cm, real and inverted
+B) –15 cm, virtual and erect
+C) –30 cm, virtual and erect
+D) –30 cm, real and erect
+-----------------------------
+Answer: A) –30 cm, real and inverted
+
+52. A convex lens forms an image twice the size of the object, on the
+opposite side of the lens. The object distance must be:
+A) Less than F
+B) Between F and 2F
+C) At 2F
+D) Beyond 2F
+-----------------------------
+Answer: B) Between F and 2F
+
+53. A concave mirror gives an erect and magnified image. The object
+must be located:
+A) Beyond C
+B) At F
+C) Between P and F
+D) At C
+-----------------------------
+Answer: C) Between P and F
+
+54. An object 2 cm high is placed at 10 cm in front of a convex mirror of
+focal length 15 cm. What is the height of the image?
+A) 0.6 cm
+B) 1 cm
+C) 1.5 cm
+D) 2.5 cm
+-----------------------------
+Answer: A) 0.6 cm
+
+55. The speed of light in a medium is 2 × 10⁸ m/s. What is its refractive
+index relative to air?
+A) 1.33
+B) 1.5
+C) 1.25
+D) 1.42
+-----------------------------
+Answer: B) 1.5
+
+56. An object 5 cm high is placed at 15 cm in front of a convex lens of focal
+length 10 cm. Calculate the position and nature of image.
+A) +30 cm, real and inverted
+B) +60 cm, real and erect
+C) +30 cm, virtual and erect
+D) +60 cm, real and inverted
+-----------------------------
+Answer: A) +30 cm, real and inverted
+
+57. A lens forms a virtual image at 25 cm from the lens on the same side
+as the object. If the object is at 10 cm, find the type and focal length.
+A) Convex, +16.7 cm
+B) Concave, –16.7 cm
+C) Convex, –16.7 cm
+D) Concave, +16.7 cm
+-----------------------------
+Answer: B) Concave, –16.7 cm
+
+58. If a concave mirror produces an image at 40 cm from it, when the
+object is placed 20 cm in front, find the focal length.
+A) 13.3 cm
+B) 15 cm
+C) 20 cm
+D) 26.6 cm
+-----------------------------
+Answer: A) 13.3 cm
+
+59. A ray passes from air into water. It bends:
+A) Away from the normal
+B) Toward the normal
+C) Reflects back
+D) Passes undeviated
+-----------------------------
+Answer: B) Toward the normal
+
+60. The image formed by a lens is inverted and of same size. Object is at
+2F. The lens is:
+A) Convex
+B) Concave
+C) Plano-concave
+D) Cylindrical
+-----------------------------
+Answer: A) Convex
+
+61. A ray enters a rectangular glass slab and emerges parallel to incident
+ray. This happens due to:
+A) Law of reflection
+B) Equal and opposite refraction
+C) Total internal reflection
+D) Snell’s law
+-----------------------------
+Answer: B) Equal and opposite refraction
+
+62. Which has highest optical density?
+A) Water
+B) Kerosene
+C) Diamond
+D) Alcohol
+-----------------------------
+Answer: C) Diamond
+
+63. What kind of lens is used to correct hypermetropia?
+A) Concave lens
+B) Convex lens
+C) Cylindrical lens
+D) Plane lens
+-----------------------------
+Answer: B) Convex lens
+
+64. The focal length of a lens is 40 cm. Its power is:
+A) 0.25 D
+B) 2.5 D
+C) 1.5 D
+D) 0.4 D
+-----------------------------
+Answer: B) 2.5 D
+
+65. A concave mirror gives a real image 20 cm high of an object 5 cm
+high. The magnification is:
+A) +4
+B) –4
+C) +0.25
+D) –0.25
+-----------------------------
+Answer: B) –4
+
+66. A concave lens with focal length 20 cm is placed 60 cm away from the
+object. The image distance is:
+A) –15 cm
+B) –20 cm
+C) –30 cm
+D) –12 cm
+-----------------------------
+Answer: A) –15 cm
+
+67. A convex mirror has focal length of 20 cm. What is the power?
+A) –5 D
+B) +5 D
+C) –2.5 D
+D) +2.5 D
+-----------------------------
+Answer: D) +2.5 D
+
+68. In which position will a convex lens form a virtual, erect and
+magnified image?
+A) At 2F
+B) Beyond 2F
+C) Between F and 2F
+D) Between F and optical centre
+-----------------------------
+Answer: D) Between F and optical centre
+
+69. A student obtains a real image on a screen using a convex lens. What
+happens to image if the object is moved closer to the lens?
+A) Image size decreases
+B) Image size increases
+C) Image becomes virtual
+D) Image disappears
+-----------------------------
+Answer: B) Image size increases
+
+70. A glass slab is placed over printed text. Letters appear raised due to:
+A) Reflection
+B) Diffraction
+C) Refraction
+D) Scattering
+-----------------------------
+Answer: C) Refraction
+
+71. A concave mirror produces a virtual image 30 cm behind the mirror. If
+the object is 10 cm in front, the focal length is:
+A) –15 cm
+B) –20 cm
+C) –30 cm
+D) –10 cm
+-----------------------------
+Answer: B) –20 cm
+
+72. What happens to the image formed by a convex mirror as the object is
+moved farther away?
+A) Image becomes real
+B) Image size increases
+C) Image size decreases
+D) Image disappears
+-----------------------------
+Answer: C) Image size decreases
+
+73. A convex lens is used as a magnifier. What should be the distance of
+object from lens?
+A) At focus
+B) Beyond 2F
+C) Between optical centre and F
+D) At 2F
+-----------------------------
+Answer: C) Between optical centre and F
+
+74. A person uses a concave mirror and sees an enlarged, upright image.
+The object is placed:
+A) Beyond C
+B) At F
+C) At C
+D) Between P and F
+-----------------------------
+Answer: D) Between P and F
+
+75. A lens forms a real, inverted image three times the object size. What is
+the nature of lens and image distance if object is at 10 cm?
+A) Convex, –30 cm
+B) Concave, +30 cm
+C) Convex, +30 cm
+D) Concave, –30 cm
+-----------------------------
+Answer: C) Convex, +30 cm
+
+76. The lens formula is given by:
+A) 1/f = 1/v + 1/u
+B) 1/f = 1/v – 1/u
+C) f = v + u
+D) f = v – u
+-----------------------------
+Answer: B) 1/f = 1/v – 1/u
+
+77. Which mirror can produce both real and virtual images?
+A) Plane mirror
+B) Convex mirror
+C) Concave mirror
+D) None of these
+-----------------------------
+Answer: C) Concave mirror
+
+78. A ray of light falls normally on a surface separating two media. It:
+A) Reflects
+B) Bends toward normal
+C) Bends away from normal
+D) Passes undeviated
+-----------------------------
+Answer: D) Passes undeviated
+
+79. Which of these lenses has maximum power?
+A) f = +100 cm
+B) f = +25 cm
+C) f = +10 cm
+D) f = –50 cm
+-----------------------------
+Answer: C) f = +10 cm
+
+80. A convex lens with power +5 D is placed in contact with a lens of
+power –2 D. The equivalent focal length is:
+A) 33.3 cm
+B) 20 cm
+C) 50 cm
+D) 100 cm
+-----------------------------
+Answer: A) 33.3 cm
+
+81. Which mirror is used as a rear-view mirror in vehicles and why?
+A) Concave mirror, because it gives a magnified image
+B) Plane mirror, because it gives real image
+C) Convex mirror, because it provides a wider field of view
+D) Convex mirror, because it gives real images
+-----------------------------
+Answer: C) Convex mirror, because it provides a wider field of view
+
+82. A dentist uses a mirror to examine a patient's teeth. The mirror used
+is:
+A) Convex, to reduce the image size
+B) Concave, to magnify the image
+C) Plane, to give a laterally inverted image
+D) Convex, to form a virtual image
+-----------------------------
+Answer: B) Concave, to magnify the image
+
+83. A shaving mirror should form a virtual, erect and enlarged image.
+Which mirror should be used?
+A) Plane mirror
+B) Convex mirror
+C) Concave mirror
+D) Cylindrical mirror
+-----------------------------
+Answer: C) Concave mirror
+
+84. Solar cookers use concave mirrors primarily to:
+A) Form multiple images
+B) Spread the sunlight evenly
+C) Convert light into electricity
+D) Focus sunlight at one point
+-----------------------------
+Answer: D) Focus sunlight at one point
+
+85. A magnifying glass uses a convex lens because it:
+A) Makes objects look smaller
+B) Produces a virtual and diminished image
+C) Produces a virtual and enlarged image
+D) Inverts the image
+-----------------------------
+Answer: C) Produces a virtual and enlarged image
+
+86. Which lens is used in a simple microscope?
+A) Convex lens
+B) Concave lens
+C) Cylindrical lens
+D) Plane lens
+-----------------------------
+Answer: A) Convex lens
+
+87. A person finds difficulty reading small print. The lens required for
+correction is:
+A) Concave lens
+B) Convex lens
+C) Plane mirror
+D) Cylindrical lens
+-----------------------------
+Answer: B) Convex lens
+
+88. A diverging lens is used in correcting:
+A) Hypermetropia
+B) Astigmatism
+C) Myopia
+D) Presbyopia
+-----------------------------
+Answer: C) Myopia
+
+89. Which mirror is preferred in street lamps to spread light over a large
+area?
+A) Plane mirror
+B) Concave mirror
+C) Convex mirror
+D) Parabolic mirror
+-----------------------------
+Answer: C) Convex mirror
+
+90. Which mirror is best suited for make-up application at home?
+A) Plane mirror
+B) Concave mirror
+C) Convex mirror
+D) Rear-view mirror
+-----------------------------
+Answer: B) Concave mirror
+
+91. A convex mirror shows the image of a car 6 m behind it. The image is 2
+m away from the mirror. What is the focal length of the mirror?
+A) 2 cm
+B) 3 m
+C) 4 m
+D) 5 m
+-----------------------------
+Answer: B) 3 m
+
+92. Which of the following setups will give a real image?
+A) Plane mirror with object at 5 cm
+B) Convex mirror with object at 20 cm
+C) Convex lens with object at 2F
+D) Concave mirror with object between P and F
+-----------------------------
+Answer: C) Convex lens with object at 2F
+
+93. Why do we see our face smaller in a convex mirror?
+A) It forms a virtual and magnified image
+B) It forms a virtual and diminished image
+C) It forms a real and inverted image
+D) It forms a real and magnified image
+-----------------------------
+Answer: B) It forms a virtual and diminished image
+
+94. A convex lens is used as a projector lens. The reason is:
+A) It forms inverted and virtual images
+B) It forms erect and magnified images
+C) It forms real, enlarged images on screen
+D) It forms multiple images
+-----------------------------
+Answer: C) It forms real, enlarged images on screen
+
+95. In which case does a convex lens form a virtual image?
+A) Object at F
+B) Object between F and lens
+C) Object at 2F
+D) Object beyond 2F
+-----------------------------
+Answer: B) Object between F and lens
+
+96. Rear-view mirrors of vehicles must be convex because:
+A) They reflect less light
+B) They give magnified images
+C) They form real images
+D) They give erect, diminished and wide-view images
+-----------------------------
+Answer: D) They give erect, diminished and wide-view images
+
+97. Why does a fish in water appear to be at a different position when
+seen from air?
+A) Diffraction
+B) Refraction
+C) Total internal reflection
+D) Dispersion
+-----------------------------
+Answer: B) Refraction
+
+98. A student places a coin in a glass of water and it appears raised. The
+reason is:
+A) Scattering
+B) Reflection
+C) Refraction
+D) Interference
+-----------------------------
+Answer: C) Refraction
+
+99. A real image formed by a concave mirror can be captured on:
+A) Retina
+B) Lens
+C) Screen
+D) Water surface
+-----------------------------
+Answer: C) Screen
+
+100. A torch reflector uses concave mirror because:
+A) It forms virtual images
+B) It gives sharp and parallel light beam
+C) It is flat
+D) It is cheap
+-----------------------------
+Answer: B) It gives sharp and parallel light beam
+
+101. A convex lens has focal length 10 cm. Where should an object be
+placed to obtain a virtual image?
+A) At 10 cm
+B) At 20 cm
+C) Between lens and 10 cm
+D) Beyond 20 cm
+-----------------------------
+Answer: C) Between lens and 10 cm
+
+102. A coin appears lifted inside a tumbler of water. This effect is used in:
+A) Optical fibers
+B) Contact lenses
+C) Prism design
+D) Swimming pool tiles
+-----------------------------
+Answer: B) Contact lenses
+
+103. A child places a ruler inside a glass of water and observes it bent.
+What concept is illustrated?
+A) Scattering
+B) Reflection
+C) Diffraction
+D) Refraction
+-----------------------------
+Answer: D) Refraction
+
+104. A glass slab placed on a paper shifts the print slightly. This is due to:
+A) Partial reflection
+B) Absorption
+C) Refraction
+D) Polarisation
+-----------------------------
+Answer: C) Refraction
+
+105. A camera lens system uses convex lenses to:
+A) Spread light
+B) Collect light and focus it
+C) Invert the image
+D) Produce virtual image
+-----------------------------
+Answer: B) Collect light and focus it
+
+106. A ray passing through optical centre of a lens:
+A) Bends away
+B) Bends towards
+C) Gets absorbed
+D) Passes undeviated
+-----------------------------
+Answer: D) Passes undeviated
+
+107. Why does a convex lens burn paper when sunlight is focused?
+A) It absorbs heat
+B) It reflects sunlight
+C) It converges sunlight to a point
+D) It diffuses the light
+-----------------------------
+Answer: C) It converges sunlight to a point
+
+108. Spectacles for correcting farsightedness use:
+A) Concave lens
+B) Convex lens
+C) Plane glass
+D) Cylindrical lens
+-----------------------------
+Answer: B) Convex lens
+
+109. A rearview mirror must not produce real images because:
+A) Real images are inverted
+B) Real images are magnified
+C) Real images are formed far
+D) Real images cannot be captured
+-----------------------------
+Answer: A) Real images are inverted
+
+110. A 5 cm tall object is placed at 10 cm in front of a concave mirror. If
+focal length is 15 cm, the image formed is:
+A) Real and inverted
+B) Virtual and erect
+C) Virtual and inverted
+D) Real and erect
+-----------------------------
+Answer: B) Virtual and erect
+
+111. Why are security mirrors in shops made convex?
+A) To enlarge the image
+B) To create real images
+C) To provide a wide field of view
+D) To make images look inverted
+-----------------------------
+Answer: C) To provide a wide field of view
+
+112. A student wants to focus sunlight onto a single point to heat a small
+object. Which mirror should they use?
+A) Plane mirror
+B) Convex mirror
+C) Concave mirror
+D) Cylindrical mirror
+-----------------------------
+Answer: C) Concave mirror
+
+113. Which device uses refraction to split light into its constituent colors?
+A) Lens
+B) Prism
+C) Mirror
+D) Plane glass
+-----------------------------
+Answer: B) Prism
+
+114. In designing a magnifying glass, what must be the focal length of the
+lens used?
+A) Long focal length
+B) Short focal length
+C) Infinite focal length
+D) Variable focal length
+-----------------------------
+Answer: B) Short focal length
+
+115. Which of these can be used to produce an inverted image on a
+screen?
+A) Concave mirror
+B) Convex mirror
+C) Plane mirror
+D) Concave lens
+-----------------------------
+Answer: A) Concave mirror
+
+116. A camera uses a convex lens to:
+A) Magnify virtual images
+B) Form real images on film or sensor
+C) Produce upright images
+D) Widen the field of view
+-----------------------------
+Answer: B) Form real images on film or sensor
+
+117. A microscope uses a convex lens because it:
+A) Forms multiple images
+B) Forms virtual and diminished images
+C) Forms virtual and enlarged images
+D) Forms only real images
+-----------------------------
+Answer: C) Forms virtual and enlarged images
+
+118. Which property of light is used in optical fibers?
+A) Reflection
+B) Dispersion
+C) Refraction
+D) Total internal reflection
+-----------------------------
+Answer: D) Total internal reflection
+
+119. When an object is placed at the focus of a convex lens, the image is:
+A) At infinity, real and inverted
+B) At focus, virtual and erect
+C) At 2F, real and erect
+D) Between F and O, virtual
+-----------------------------
+Answer: A) At infinity, real and inverted
+
+120. Why does a pencil in a glass of water appear bent?
+A) Light slows down and bends
+B) Light reflects completely
+C) Light spreads into colors
+D) The glass acts as a lens
+-----------------------------
+Answer: A) Light slows down and bends
+
+121. A concave mirror can form both real and virtual images. Justify.
+A) It always forms virtual images
+B) It depends on the position of the object
+C) It forms only real images
+D) Virtual images are not possible in mirrors
+-----------------------------
+Answer: B) It depends on the position of the object
+
+122. Convex mirrors are used in vehicles' side mirrors. Justify this choice.
+A) They form magnified images
+B) They form real and inverted images
+C) They give a wider field of view
+D) They reduce headlight glare
+-----------------------------
+Answer: C) They give a wider field of view
+
+123. Convex lenses can form real or virtual images. Explain why.
+A) They have flat surfaces
+B) They always form real images
+C) Depends on the object distance from lens
+D) They always magnify images
+-----------------------------
+Answer: C) Depends on the object distance from lens
+
+124. A concave lens cannot form real images. Justify.
+A) It converges light rays
+B) It diverges light rays
+C) It has a large aperture
+D) It reflects light
+-----------------------------
+Answer: B) It diverges light rays
+
+125. When a ray passes through the centre of curvature of a mirror, it
+reflects along the same path. Why?
+A) It strikes at an angle
+B) It strikes perpendicular to the surface
+C) It bends due to refraction
+D) It gets absorbed
+-----------------------------
+Answer: B) It strikes perpendicular to the surface
+
+126. A convex lens forms a real, inverted image when object is beyond F.
+Justify.
+A) It diverges rays
+B) It reflects rays
+C) It converges rays at a point
+D) It refracts rays away
+-----------------------------
+Answer: C) It converges rays at a point
+
+127. Refraction of light causes a pencil in water to appear bent. Justify
+this observation.
+A) Reflection from the surface
+B) Change in light direction due to speed change
+C) Prism effect
+D) Lateral inversion
+-----------------------------
+Answer: B) Change in light direction due to speed change
+
+128. A concave mirror is used in solar cookers. Justify.
+A) It magnifies the sun
+B) It disperses sunlight
+C) It focuses sunlight at one point
+D) It reflects sunlight randomly
+-----------------------------
+Answer: C) It focuses sunlight at one point
+
+129. The image formed by a plane mirror is laterally inverted. Why?
+A) Mirror reverses the size
+B) Mirror bends the light
+C) Mirror reverses left and right
+D) Mirror creates a virtual image
+-----------------------------
+Answer: C) Mirror reverses left and right
+
+130. Convex lenses are used in projectors. Justify.
+A) They form erect images
+B) They create virtual images
+C) They diverge rays
+D) They form real, magnified images
+-----------------------------
+Answer: D) They form real, magnified images
+
+131. Total internal reflection occurs only when light moves from denser to
+rarer medium. Justify.
+A) Only rarer media bend rays
+B) Light always reflects
+C) Refracted ray bends away and may reflect fully
+D) Light slows down
+-----------------------------
+Answer: C) Refracted ray bends away and may reflect fully
+
+132. Magnifying glasses use convex lenses. Justify.
+A) They create multiple images
+B) They reduce image size
+C) They form virtual, enlarged images
+D) They reflect light
+-----------------------------
+Answer: C) They form virtual, enlarged images
+
+133. Concave lenses are used in peepholes. Justify.
+A) They form large images
+B) They reflect light
+C) They focus rays
+D) They form diminished, erect images
+-----------------------------
+Answer: D) They form diminished, erect images
+
+134. Refractive index determines how much light bends. Justify.
+A) It depends on color
+B) It depends on thickness
+C) It relates to light’s speed in medium
+D) It is a fixed number
+-----------------------------
+Answer: C) It relates to light’s speed in medium
+
+135. An object appears raised in water due to refraction. Explain.
+A) Water reflects images
+B) Water scatters rays
+C) Light bends away from the normal
+D) Light bends towards the normal
+-----------------------------
+Answer: C) Light bends away from the normal
+
+136. Virtual images cannot be obtained on a screen. Justify.
+A) They are too small
+B) They don’t really exist at a location
+C) They move fast
+D) They are behind the object
+-----------------------------
+Answer: B) They don’t really exist at a location
+
+137. A convex mirror never forms a real image. Justify.
+A) It absorbs light
+B) It doesn’t reflect light
+C) Reflected rays always diverge
+D) Light passes through it
+-----------------------------
+Answer: C) Reflected rays always diverge
+
+138. Refractive index of water is 1.33. What does this indicate?
+A) Light slows down 1.33 times in air
+B) Light slows down in water compared to vacuum
+C) Water bends light by 1.33 degrees
+D) Light speed is same in water and air
+-----------------------------
+Answer: B) Light slows down in water compared to vacuum
+
+139. A convex lens converges light. Justify with application.
+A) Used in peepholes
+B) Used in headlamps
+C) Used in magnifiers and cameras
+D) Used in wall mirrors
+-----------------------------
+Answer: C) Used in magnifiers and cameras
+
+140. Concave mirrors are used by ENT doctors. Justify.
+A) They create a wide field of view
+B) They form diminished images
+C) They magnify close images
+D) They produce real images
+-----------------------------
+Answer: C) They magnify close images
+
+141. A prism splits white light into colors. Justify.
+A) Because of total internal reflection
+B) Because light slows down
+C) Because of dispersion
+D) Because of reflection
+-----------------------------
+Answer: C) Because of dispersion
+
+142. Light bends more in glass than in water. Justify.
+A) Glass has more thickness
+B) Water is denser
+C) Glass has higher refractive index
+D) Light travels faster in glass
+-----------------------------
+Answer: C) Glass has higher refractive index
+
+143. The image in a plane mirror is laterally inverted. Justify with
+example.
+A) The letters look reversed in a mirror
+B) Mirror reduces size
+C) Mirror forms real image
+D) Mirror does not reflect
+-----------------------------
+Answer: A) The letters look reversed in a mirror
+
+144. Light bends when it enters a different medium. Justify.
+A) Its frequency changes
+B) Its color changes
+C) Its speed changes
+D) Its direction is fixed
+-----------------------------
+Answer: C) Its speed changes
+
+145. The human eye uses a convex lens. Justify.
+A) It needs diverging rays
+B) It reflects light
+C) It focuses light on retina
+D) It forms virtual images
+-----------------------------
+Answer: C) It focuses light on retina
+
+146. Myopia is corrected using concave lenses. Justify.
+A) They converge light rays
+B) They bend rays away to focus on retina
+C) They create virtual images
+D) They block excess light
+-----------------------------
+Answer: B) They bend rays away to focus on retina
+
+147. The focal length of a concave lens is always negative. Why?
+A) It converges light
+B) It bends light to the axis
+C) It diverges light and focus is virtual
+D) It forms real images
+-----------------------------
+Answer: C) It diverges light and focus is virtual
+
+148. Concave mirrors are used in torch reflectors. Justify.
+A) They magnify objects
+B) They scatter light
+C) They form parallel beams when bulb is at focus
+D) They invert the image
+-----------------------------
+Answer: C) They form parallel beams when bulb is at focus
+
+149. In water, a straight object appears bent at the surface. Justify.
+A) Water surface is curved
+B) Water reflects the object
+C) Due to refraction of light
+D) The object moves in water
+-----------------------------
+Answer: C) Due to refraction of light
+
+150. A convex lens forms a virtual image only when the object is closer
+than focal length. Justify.
+A) Rays cross after lens
+B) Rays diverge before focus
+C) Rays appear to diverge from a point
+D) Lens is thick
+-----------------------------
+Answer: C) Rays appear to diverge from a point
+
+ANSWER THE FOLLOWING QUESTIONS WITH TWO OR THREE SENTENCES
+
+151. Explain with a ray diagram how a concave mirror forms a real,
+inverted and magnified image when the object is placed between F and
+C.
+-----------------------------
+Answer:
+When an object is placed between the focus (F) and the centre of
+curvature (C) of a concave mirror, a real, inverted and enlarged image is
+formed beyond C. A ray parallel to the principal axis reflects through the
+focus, and a ray passing through the centre of curvature reflects back on
+itself. These rays intersect beyond C, forming the required image. The
+image is real because the rays actually meet, it is inverted, and it is larger
+than the object because it lies farther from the mirror than the object. This
+principle is used in devices like solar concentrators and makeup mirrors.
+Diagram
+Image formation by concave mirror when object is between focus and
+centre of curvature
+Keywords: Concave mirror, Real image, Inverted, Enlarged, Focus, Centre
+of curvature
+
+152. Define the principal focus of a concave mirror. Draw a ray diagram to
+show how light rays converge at the focus.
+-----------------------------
+Answer:
+The principal focus of a concave mirror is the point on the principal axis
+where light rays parallel to the axis converge after reflection from the
+mirror surface. For a concave mirror, this point lies in front of the mirror. To
+show this, several rays parallel to the principal axis are drawn incident on
+the mirror; after reflection, all pass through the focus. The diagram clearly
+illustrates convergence due to the curved surface. This principle is
+important in designing satellite dishes and telescopes.
+Diagram
+Parallel rays converging at the focus of a concave mirror
+Keywords: Principal focus, Concave mirror, Parallel rays, Converge,
+Reflection, Focal point
+
+153. An object 2 cm high is placed at 12 cm in front of a concave mirror of
+focal length 8 cm. Use mirror formula to find the position, nature and size
+of the image.
+-----------------------------
+Answer:
+Using the mirror formula:
+1/f = 1/v + 1/u
+Given: f = –8 cm, u = –12 cm
+1/v = 1/–8 – 1/–12 = (–3 + 2)/24 = –1/24 → v = –24 cm
+The negative sign means the image is formed on the same side as the
+object, which means it is real.
+Magnification m = –v/u = –(–24)/(–12) = –2 → image height = m × object
+height = –2 × 2 = –4 cm
+So, the image is real, inverted and magnified 2 times.
+Keywords: Mirror formula, Concave mirror, Image distance,
+Magnification, Real image, Inverted
+
+154. Explain how refraction occurs at the boundary between two media
+with a labelled diagram.
+-----------------------------
+Answer:
+Refraction is the bending of light as it travels from one medium to another
+with different optical densities. It occurs because light travels at different
+speeds in different media. When light enters a denser medium (like air to
+glass), it bends towards the normal; when it enters a rarer medium (glass
+to air), it bends away from the normal. The degree of bending depends on
+the refractive index. This phenomenon is demonstrated with a diagram
+showing incident, refracted and emergent rays at the interface of two
+media.
+Diagram
+Refraction of light at the interface of two transparent media
+Keywords: Refraction, Optical density, Normal, Refracted ray, Medium,
+Refractive index
+
+155. A ray of light passes through a rectangular glass slab. Explain with
+diagram why the emergent ray is parallel to the incident ray.
+-----------------------------
+Answer:
+When a light ray passes through a rectangular glass slab, it is refracted at
+both air-glass and glass-air interfaces. At the first surface, it bends
+towards the normal (as it enters denser medium), and at the second
+surface, it bends away (as it exits to rarer medium). The overall effect is
+lateral displacement, but the emergent ray is parallel to the incident ray.
+This is because the two refractions are equal and opposite. A diagram of
+the slab shows the bending and parallel emergent ray.
+Diagram
+Emergent ray parallel to incident ray in glass slab refraction
+Keywords: Rectangular slab, Refraction, Parallel ray, Lateral shift, Denser
+medium, Emergent ray
+
+156. A convex lens of focal length 20 cm forms an image of an object
+placed 30 cm from the lens. Find the image position and nature of image.
+-----------------------------
+Answer:
+Using the lens formula: 1/f = 1/v – 1/u
+Given: f = +20 cm, u = –30 cm
+1/v = 1/20 + 1/30 = (3 + 2)/60 = 5/60 → v = 12 cm
+The positive value of v means the image is formed on the opposite side of
+the lens.
+Magnification m = v/u = 12/(–30) = –0.4
+Thus, the image is real, inverted and diminished in size.
+Keywords: Convex lens, Lens formula, Real image, Inverted, Image
+distance, Magnification
+
+157. Assertion (A): A convex mirror is preferred for use in vehicles. Reason
+(R): Convex mirrors form real images.
+A) Both A and R are true and R is the correct explanation of A
+B) Both A and R are true but R is not the correct explanation of A
+C) A is true but R is false
+D) A is false but R is true
+-----------------------------
+Answer:
+C) A is true but R is false
+
+158. Assertion (A): Light bends when it enters a different medium. Reason
+(R): The speed of light changes in different media.
+A) Both A and R are true and R is the correct explanation of A
+B) Both A and R are true but R is not the correct explanation of A
+C) A is true but R is false
+D) A is false but R is true
+-----------------------------
+Answer:
+A) Both A and R are true and R is the correct explanation of A
+Keywords: Refraction, Speed of light, Medium, Bending, Assertion,
+Reasoning
+
+159. Draw a ray diagram to show the image formation by a convex lens
+when the object is at 2F. Describe the nature, size and position of the
+image.
+-----------------------------
+Answer:
+When the object is placed at 2F (twice the focal length) in front of a convex
+lens, the image is formed at 2F on the opposite side. The image is real,
+inverted, and same size as the object. The diagram includes a ray parallel
+to the principal axis (passing through F after refraction) and a ray through
+the optical centre (which passes undeviated). These rays meet at 2F
+forming the image.
+Diagram
+Ray diagram for object at 2F in convex lens
+Keywords: Convex lens, Real image, Same size, Ray diagram, Object at
+2F, Image formation
+
+160. Assertion (A): A concave mirror can form a magnified, virtual image.
+Reason (R): Concave mirrors only form real images.
+A) Both A and R are true and R is the correct explanation of A
+B) Both A and R are true but R is not the correct explanation of A
+C) A is true but R is false
+D) A is false but R is true
+-----------------------------
+Answer:
+C) A is true but R is false
+Assertion, Real image
+
+161. A convex mirror is used for security in shops. Explain how its image
+characteristics make it suitable for this use.
+-----------------------------
+Answer:
+A convex mirror always forms a virtual, erect, and diminished image of
+objects, regardless of their position. Its most important feature is that it
+provides a wider field of view than any other type of mirror, which is
+essential for surveillance. The curvature causes rays from different angles
+to be reflected toward the observer. This allows shopkeepers to monitor
+large areas through a single mirror mounted at an elevated point. Though
+the image is small, it is sufficient for detection of movement or presence.
+Keywords: Convex mirror, Security, Wide field of view, Diminished image,
+Virtual, Surveillance
+
+162. An object is placed at a distance of 10 cm from a concave mirror with
+focal length 15 cm. Find the position and nature of the image.
+-----------------------------
+Answer:
+Using the mirror formula:
+1/f = 1/v + 1/u → f = –15 cm, u = –10 cm
+1/v = 1/–15 – 1/–10 = (–2 + 3)/30 = 1/30 → v = +30 cm
+Since the image distance (v) is positive, it indicates that the image is
+formed behind the mirror, and is therefore virtual. Also, magnification m = –
+v/u = –30/(–10) = +3, so the image is magnified and erect.
+Keywords: Concave mirror, Virtual image, Mirror formula, Magnification,
+Image distance, Focal length
+
+163. How can you use a convex lens to burn a paper? Explain with reason
+and conditions required.
+-----------------------------
+Answer:
+A convex lens can focus sunlight to a single point known as the principal
+focus. To burn paper, the lens must be held so that the paper lies exactly at
+the focus of the lens. This is where parallel rays of sunlight converge after
+passing through the lens. At this point, the light’s energy is concentrated,
+increasing the temperature. If the lens has a short focal length, the heat is
+more intense. The process demonstrates the converging property of
+convex lenses.
+Keywords: Convex lens, Burning, Focus, Convergence, Sunlight, Energy
+concentration
+
+164. A student wants to use a concave mirror as a shaving mirror. At what
+position should he keep his face and why?
+-----------------------------
+Answer:
+To use a concave mirror for shaving, the object (face) must be placed
+between the pole (P) and focus (F) of the mirror. In this position, the mirror
+forms an image that is virtual, erect, and magnified. This is suitable for
+grooming purposes because it allows clear and enlarged view of facial
+features. If the object were beyond focus, the image would be real and
+inverted, which is not useful.
+Keywords: Concave mirror, Shaving mirror, Virtual image, Magnified,
+Image position, Grooming
+
+165. Design a method to determine the focal length of a convex lens using
+sunlight.
+-----------------------------
+Answer:
+To determine the focal length of a convex lens, place the lens in direct
+sunlight and hold a white paper behind it. Adjust the distance between the
+paper and the lens until a sharp, bright spot (image of the Sun) appears on
+the paper. Measure the distance from the lens to the paper; this is the focal
+length of the lens. This works because sunlight consists of parallel rays
+which converge at the focal point after passing through the convex lens.
+Keywords: Convex lens, Focal length, Sunlight, Parallel rays, Sharp
+image, Convergence
+
+166. A 5 cm high object is placed at 25 cm from a convex lens of focal
+length 10 cm. Calculate image distance, magnification and describe the
+image.
+-----------------------------
+Answer:
+Given: u = –25 cm, f = +10 cm
+Using lens formula: 1/v = 1/f + 1/u = 1/10 – 1/25 = (5 – 2)/50 = 3/50 → v = 16.7
+cm
+Magnification m = v/u = 16.7/–25 = –0.67
+Image height = m × object height = –0.67 × 5 = –3.35 cm
+Hence, the image is real, inverted and smaller in size than the object.
+Keywords: Convex lens, Real image, Inverted, Magnification, Image
+height, Lens formula
+
+167. Explain why a coin in water appears to be raised. Support your
+answer with refraction concepts.
+-----------------------------
+Answer:
+A coin placed at the bottom of a glass filled with water appears raised due
+to the refraction of light. As light rays pass from water (denser medium) to
+air (rarer medium), they bend away from the normal. Our brain assumes
+light travels in a straight line, so it traces the rays back in a straight path,
+making the object appear at a higher position than it really is. This is a
+common example of optical illusion caused by refraction.
+Keywords: Refraction, Apparent depth, Coin in water, Optical illusion,
+Light bending, Medium change
+
+168. How does lateral shift occur in a glass slab? Explain with a diagram-
+based explanation.
+-----------------------------
+Answer:
+Lateral shift is the sideways displacement of a light ray as it passes
+through a rectangular glass slab. When a ray enters the glass from air, it
+bends towards the normal due to refraction. When it exits the slab, it bends
+away from the normal. The emergent ray is parallel to the incident ray but
+displaced laterally. The amount of shift depends on the thickness of the
+slab and angle of incidence.
+Diagram
+Lateral displacement of a light ray in a glass slab
+Keywords: Lateral shift, Refraction, Glass slab, Parallel ray, Optical path,
+Emergent ray
+
+169. A ray of light enters from air into glass and then into water. Describe
+the path of light with justification.
+-----------------------------
+Answer:
+When a ray of light enters from air into glass, it bends towards the normal
+because glass is denser. As it passes from glass to water, it bends away
+from the normal, since water is optically less dense than glass. The overall
+bending depends on the refractive indices of the materials. Each change in
+medium causes the ray to change direction due to variation in light speed.
+The final emergent ray depends on the relative optical densities.
+Keywords: Refraction, Air to glass, Glass to water, Optical density,
+Refractive index, Light path
+
+170. A convex mirror gives a virtual image at a distance of 10 cm behind
+the mirror. The object is placed 30 cm in front. Calculate the focal length.
+-----------------------------
+Answer:
+Using mirror formula: 1/f = 1/v + 1/u
+Given: v = +10 cm (virtual image), u = –30 cm
+1/f = 1/10 – 1/30 = (3 – 1)/30 = 2/30 = 1/15 → f = 15 cm
+Since it is a convex mirror, focal length = +15 cm
+Hence, the mirror has a focal length of +15 cm and forms a virtual, erect,
+diminished image.
+Keywords: Convex mirror, Virtual image, Mirror formula, Focal length,
+Object distance, Image distance
+
+171. Justify why convex lenses are used in spectacles for hypermetropia.
+-----------------------------
+Answer:
+Hypermetropia or farsightedness occurs when the image of a nearby
+object forms behind the retina. This happens when the eye lens is too flat
+or the eyeball is too short. A convex lens converges light rays before they
+enter the eye, so they are focused correctly on the retina. The converging
+nature of the convex lens compensates for the eye’s weak focusing power.
+Keywords: Hypermetropia, Convex lens, Farsightedness, Spectacles,
+Image correction, Retina
+
+172. Explain how a convex lens acts as a magnifying glass. Under what
+conditions does this occur?
+-----------------------------
+Answer:
+A convex lens acts as a magnifying glass when the object is placed
+between the lens and its focus. In this position, the lens forms a virtual,
+erect and magnified image on the same side of the lens. The lens must be
+held close to the object and the viewer’s eye. This is used in magnifiers,
+watches, and reading glasses to observe small details.
+Keywords: Convex lens, Magnification, Virtual image, Erect, Close object,
+Magnifying glass
+
+173. Describe the image formation by a concave lens using ray diagrams
+for any object distance.
+-----------------------------
+Answer:
+A concave lens always forms a virtual, erect and diminished image
+irrespective of the object’s distance. One ray parallel to the principal axis
+diverges after refraction and appears to come from the focus. Another ray
+passes undeviated through the optical centre. These rays diverge, but
+when extended backward, they appear to meet at a point on the same
+side as the object.
+Diagram
+Image formation by a concave lens
+Keywords: Concave lens, Virtual image, Ray diagram, Erect image,
+Diverging lens, Image position
+
+174. Why does light bend at the interface of two different media? Explain
+using the wave speed concept.
+-----------------------------
+Answer:
+Light bends at the interface of two media due to a change in its speed.
+When light enters a medium with different optical density, its velocity
+changes, causing the direction to change. If it enters a denser medium, it
+slows down and bends toward the normal. If it enters a rarer medium, it
+speeds up and bends away from the normal. This bending is called
+refraction and is explained by Snell’s law.
+Keywords: Refraction, Wave speed, Bending, Optical density, Snell’s law,
+Medium interface
+
+175. A convex lens forms an image of the same size as the object. Find the
+object position and explain with a diagram.
+-----------------------------
+Answer:
+A convex lens forms an image of the same size when the object is placed
+at 2F. The image is formed on the opposite side at 2F. It is real, inverted and
+of equal size. The ray diagram shows one ray parallel to the axis passing
+through focus and one passing through the optical centre, intersecting at
+2F.
+Diagram
+Image formation by convex lens when object is at 2F
+Keywords: Convex lens, Object at 2F, Real image, Same size, Ray
+diagram, Image position
+
+176. A driver uses a convex mirror as a side mirror. Justify why this is
+better than using a plane or concave mirror.
+-----------------------------
+Answer:
+Convex mirrors are preferred for side mirrors in vehicles because they
+provide a wider field of view. This allows the driver to see more of the road
+and surrounding area, improving safety. Unlike concave mirrors, convex
+mirrors do not invert the image and always provide an upright, virtual and
+diminished image. This makes them useful for detecting nearby vehicles
+without confusion. Plane mirrors, in contrast, offer a limited field of view and
+cannot cover blind spots.
+Keywords: Convex mirror, Side mirror, Wide view, Diminished image,
+Safety, Vehicle
+
+177. A spoon appears distorted when placed in a glass of water. Justify
+your observation using refraction.
+-----------------------------
+Answer:
+When a spoon is partially submerged in water, the part inside appears
+bent or displaced. This is due to the refraction of light as it moves from
+water to air. The light rays coming from the submerged portion bend away
+from the normal, causing the apparent position to shift. Our eyes trace
+back the refracted rays in a straight line, resulting in a visually distorted
+image. The effect is more noticeable at oblique viewing angles.
+Keywords: Spoon in water, Refraction, Apparent shift, Light bending,
+Optical illusion, Distortion
+
+178. While looking into a concave mirror, your face appears magnified
+and upright. Justify how this happens.
+-----------------------------
+Answer:
+When your face is close to a concave mirror, specifically between the pole
+and the focus, the reflected rays diverge but appear to originate from a
+point behind the mirror. This forms a virtual, erect and magnified image.
+The mirror's inward curvature causes rays to reflect in a way that produces
+this enlargement. This property is used in shaving and makeup mirrors,
+where a detailed view of the face is needed.
+Keywords: Concave mirror, Magnified image, Upright image, Virtual,
+Close object, Facial view
+
+179. Why is a convex lens used in reading glasses for old-age
+hypermetropic people? Justify your answer.
+-----------------------------
+Answer:
+With age, the eye lens loses flexibility and cannot converge light rays from
+nearby objects effectively. This condition is called hypermetropia. A convex
+lens helps by converging the incoming light rays before they enter the eye,
+so they focus on the retina instead of behind it. The lens compensates for
+the weak accommodation power of the eye. This allows the person to see
+nearby objects clearly.
+Keywords: Convex lens, Hypermetropia, Old age, Focusing, Reading
+glasses, Retina
+
+180. A glass slab does not deviate the emergent ray from the original
+path. Justify how this happens.
+-----------------------------
+Answer:
+When light passes through a rectangular glass slab, it refracts twice: once
+when entering and once when leaving. The first refraction bends the ray
+toward the normal, and the second bends it away from the normal. The
+two deviations cancel each other out, and the emergent ray becomes
+parallel to the incident ray, though it undergoes lateral shift. This behavior
+is unique to rectangular slabs due to their parallel sides.
+Keywords: Glass slab, Emergent ray, Refraction, Parallel ray, Lateral shift,
+Light path
+
+181. Why does a convex lens form a virtual and enlarged image only when
+the object is closer than the focal length?
+-----------------------------
+Answer:
+A convex lens can only form a virtual and enlarged image when the object
+is placed between the optical centre and the focal point. In this case, the
+rays diverge after refraction and do not meet on the other side of the lens.
+However, if extended backward, they appear to come from a point behind
+the lens. This makes the image virtual and larger. Beyond the focal length,
+the lens forms real and inverted images.
+Keywords: Convex lens, Virtual image, Focal length, Enlarged, Diverging
+rays, Image formation
+
+182. While looking at a fish in a pond, it appears at a different location
+than it actually is. Justify.
+-----------------------------
+Answer:
+This is due to the refraction of light at the water-air interface. The light rays
+coming from the fish bend away from the normal as they pass into air. Our
+brain traces the rays in a straight line, placing the image of the fish at a
+higher, incorrect position. As a result, the fish appears closer to the surface
+than it actually is. This is a classic example of apparent depth caused by
+refraction.
+Keywords: Refraction, Apparent depth, Fish in water, Light bending,
+Optical illusion, Water interface
+
+183. A magnifying glass must be held close to an object to work. Justify
+the reason based on lens behavior.
+-----------------------------
+Answer:
+A magnifying glass is a convex lens used to produce a virtual and enlarged
+image of a small object. For this to happen, the object must be placed
+between the lens and its focal point. At this distance, the rays diverge after
+refraction and appear to come from a larger image on the same side as
+the object. Holding the lens close ensures a bigger virtual image, which is
+essential for reading or examining fine details.
+Keywords: Magnifying glass, Convex lens, Virtual image, Enlarged, Close
+object, Focal point
+
+184. Explain why a concave mirror is used in solar concentrators. Justify
+your answer with light behavior.
+-----------------------------
+Answer:
+Concave mirrors can focus parallel rays of sunlight to a single point known
+as the focus. In solar concentrators, this property is used to collect and
+concentrate solar energy at a point to produce high temperatures. The
+mirror’s parabolic shape ensures that all incoming sunlight is reflected and
+converged efficiently. This concentrated energy can be used for heating,
+cooking or generating steam.
+Keywords: Concave mirror, Solar concentrator, Focus, Convergence,
+Sunlight, Heat generation
+
+185. A real image can be captured on a screen, but a virtual one cannot.
+Justify with reference to ray behavior.
+-----------------------------
+Answer:
+A real image is formed when light rays actually converge at a point after
+reflection or refraction. Since the rays meet at a physical location, the
+image can be projected onto a screen. A virtual image, on the other hand,
+is formed when the rays only appear to meet but don’t actually intersect.
+Therefore, virtual images cannot be projected or captured on a screen;
+they can only be seen by looking into the optical device.
+Keywords: Real image, Virtual image, Screen, Light rays, Converge,
+Diverge
+
+ANSWER THE FOLLOWING QUESTIONS BRIEFLY
+
+186. With the help of ray diagrams, explain the image formation by a
+concave mirror for various positions of the object.
+-----------------------------
+Answer:
+Concave mirrors form images based on the object’s position relative to its
+focus (F) and center of curvature (C).
+1. Object at infinity: Image is formed at F, point-sized, real, and inverted.
+2. Object beyond C: Image between F and C, smaller, real, and inverted.
+3. Object at C: Image at C, same size, real, and inverted.
+4. Object between F and C: Image beyond C, larger, real, and inverted.
+5. Object at F: Image at infinity, highly enlarged, real, and inverted.
+6. Object between P and F: Image behind the mirror, larger, virtual, and
+erect.
+Ray diagrams involve:
+Ray parallel to the principal axis reflects through F.
+Ray through C reflects back on itself.
+Ray through F reflects parallel.
+Ray incident at pole follows angle of incidence = angle of reflection.
+This topic is essential for understanding the functioning of concave
+reflectors in torches, headlights, and shaving mirrors.
+Diagram
+Ray diagrams showing different image formations by concave mirror
+Keywords: Concave mirror, Real image, Virtual image, Inverted,
+Enlarged, Ray diagram, Focus, Pole, Centre of curvature, Mirror
+
+187. Draw and explain the image formation in a convex lens for all object
+positions. Write characteristics of each image.
+-----------------------------
+Answer:
+A convex lens forms different types of images depending on object
+placement:
+1. Object at infinity: Image at focus (F₂), point-sized, real, and inverted.
+2. Object beyond 2F₁: Image between F₂ and 2F₂, diminished, real, and
+inverted.
+3. Object at 2F₁: Image at 2F₂, same size, real, and inverted.
+4. Object between F₁ and 2F₁: Image beyond 2F₂, magnified, real, and
+inverted.
+5. Object at F₁: Image at infinity, highly magnified, real, and inverted.
+6. Object between optical centre and F₁: Image behind lens, magnified,
+virtual, and erect.
+Each ray diagram includes:
+A ray parallel to principal axis refracts through F₂.
+A ray through optical centre passes undeviated.
+A ray through F₁ emerges parallel.
+These principles are used in magnifiers, cameras, projectors, and human
+eyes.
+Diagram
+Ray diagrams for image formation by a convex lens
+Keywords: Convex lens, Real image, Virtual image, Inverted, Magnified,
+Focus, Principal axis, Optical centre, Refraction, Ray diagram
+
+188. A concave lens always forms a virtual, erect and diminished image.
+Explain with reasons and a diagram. Mention its applications.
+-----------------------------
+Answer:
+A concave lens is a diverging lens and forms images that are always
+virtual, erect, and diminished, regardless of object distance.
+Ray behavior:
+A ray parallel to the principal axis appears to diverge from focus
+after refraction.
+A ray passing through the optical centre goes undeviated.
+Since refracted rays diverge, they do not meet; they only appear to
+diverge from a point. Thus, the image formed is always virtual
+(cannot be captured on screen), upright, and smaller.
+This type of lens is used in:
+Correcting myopia (short-sightedness)
+Peepholes in doors
+Combination with convex lenses in optical devices
+Diagram
+Image formation by concave lens using ray diagram
+Keywords: Concave lens, Diverging, Virtual image, Diminished,
+Refraction, Optical centre, Ray diagram, Myopia, Upright image,
+Application
+
+189. Assertion (A): A concave mirror is used in solar cookers.
+Reason (R): Concave mirrors can diverge light rays falling on them.
+Choose the correct option and justify your answer.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true but R is false
+D) A is false but R is true
+-----------------------------
+Answer:
+Correct option: C) A is true but R is false
+Concave mirrors are used in solar cookers because they converge parallel
+rays of sunlight to a single point – the focus. This concentration of light
+increases the temperature, allowing cooking of food. The reason is
+incorrect because concave mirrors do not diverge light; convex mirrors do.
+The ability of a concave mirror to focus energy at one point makes it
+suitable for solar applications.
+Keywords: Concave mirror, Solar cooker, Assertion-Reason, Converging
+mirror, Sunlight, Focus, Heat, Reflection, Real image, Energy
+concentration
+
+190. Assertion (A): A virtual image can never be obtained on a screen.
+Reason (R): A virtual image is formed by converging light rays at a point.
+Choose the correct option and justify your answer.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true but R is false
+D) A is false but R is true
+-----------------------------
+Answer:
+Correct option: C) A is true but R is false
+Virtual images cannot be captured on screens because they are not
+formed by actual convergence of rays. Instead, they are formed by the
+apparent divergence of rays. The rays do not meet; they only appear to do
+so when extended backward. Thus, the image appears behind the mirror or
+lens and cannot be projected. The assertion is correct, but the reason is
+wrong.
+Keywords: Virtual image, Real image, Assertion-Reason, Converging
+rays, Diverging rays, Mirror, Lens, Screen, Reflection, Refraction
+
+191. A torch uses a concave mirror, while a car’s rearview mirror is
+convex. Justify the use of each mirror with image properties.
+-----------------------------
+Answer:
+A torch uses a concave mirror to produce a strong, parallel beam of light.
+The bulb is placed at the focus, and the concave surface reflects the
+diverging light rays into parallel rays. This creates a concentrated beam for
+long-distance visibility.
+In contrast, a rearview mirror in vehicles is convex. It always forms virtual,
+erect, and diminished images. Its wider field of view allows the driver to see
+more of the road and reduces blind spots. Though the image is smaller, it is
+more informative. Convex mirrors do not form real images and cannot
+focus light.
+Thus, concave mirrors are used for focused light projection, and convex
+mirrors for broad field visibility.
+Keywords: Concave mirror, Convex mirror, Torch, Rearview mirror, Field
+of view, Parallel rays, Virtual image, Real image, Diminished, Application
+
+192. Explain how the lens formula is derived and how it helps in
+understanding image position in lenses. Give an example.
+-----------------------------
+Answer:
+The lens formula is:
+1/f = 1/v – 1/u, where:
+f = focal length of the lens
+v = image distance from optical centre
+u = object distance from optical centre
+The sign convention used is similar to mirrors:
+All distances are measured from the optical centre.
+Distances toward the left are negative, to the right are positive.
+The formula is derived using geometry and the laws of refraction. It
+helps calculate the unknown image or object distance, given two of
+the three quantities.
+Example: A convex lens of focal length 15 cm forms an image at 30
+cm. Find the object position.
+1/f = 1/v – 1/u → 1/15 = 1/30 – 1/u → 1/u = 1/30 – 1/15 = –1/30 → u = –30
+cm
+So, object is 30 cm left of the lens.
+Keywords: 1/f = 1/v – 1/u, Refraction, Focal length, Image distance, Object
+distance, Convex lens, Sign convention, Real image, Optics, 30 cm
+
+193. A convex lens of focal length 20 cm forms an image at 30 cm from the
+lens. Find the object distance, image type, and magnification. Explain
+your answer with reasoning.
+-----------------------------
+Answer:
+Given: f = +20 cm, v = +30 cm
+Using lens formula: 1/f = 1/v – 1/u
+1/20 = 1/30 – 1/u → 1/u = 1/30 – 1/20 = (2 – 3)/60 = –1/60 → u = –60 cm
+Object is 60 cm left of the lens.
+Magnification (m) = v/u = 30/(–60) = –0.5
+The negative magnification indicates that the image is real and inverted.
+The magnitude (0.5) shows that it is diminished. The convex lens, when the
+object is beyond 2F, produces a real, inverted and smaller image between
+F and 2F.
+Keywords: 60 cm left of the lens, Focal length, 1/f = 1/v – 1/u, Real image,
+Inverted, Diminished, F and 2F, Object distance, –0.5, smaller image
+
+194. Why does a pencil appear broken when immersed in water at an
+angle? Justify the observation using ray diagrams and concept of
+refraction.
+-----------------------------
+Answer:
+The broken appearance of a pencil in water is due to refraction. Light rays
+coming from the submerged part of the pencil pass from water to air.
+Since water is optically denser, the rays bend away from the normal as
+they enter air. The brain traces the rays back in a straight line, making the
+pencil appear at a higher position. This apparent shift creates the illusion of
+a broken or bent pencil.
+A ray diagram shows:
+Incident ray from the pencil under water
+Refracted ray bending away
+Apparent position above real position
+This is a common everyday example of refraction at work.
+Diagram
+Apparent bending of pencil due to refraction
+Keywords: Refraction, Apparent depth, Bending light, Pencil in water,
+Water-air interface, Normal, Ray diagram, Optical illusion, Medium
+change, Light path
+
+195. A student observes the Sun’s image on a paper through a convex
+lens and burns the paper. Explain the scientific principle, safety
+precautions and energy conversion involved.
+-----------------------------
+Answer:
+When parallel rays from the Sun fall on a convex lens, they converge at the
+focus. If a sheet of paper is placed at this point, the light energy is
+concentrated and can generate enough heat to ignite the paper. This
+demonstrates the converging property of convex lenses. The energy
+conversion involved is from solar (light) energy to heat energy.
+Safety precautions:
+Do not look at the Sun directly through the lens.
+Avoid prolonged exposure of skin to focused light.
+Conduct the experiment outdoors in daylight.
+This principle is used in solar cookers and concentrators for eco-
+friendly heating.
+Diagram
+Sunlight focused by convex lens to burn paper
+Keywords: Convex lens, Sunlight, Convergence, Focal point, Light to heat,
+Solar energy, Safety, Real image, Experiment, Ignition
+
+196. Justify why concave mirrors are used by ENT doctors during ear and
+nose examinations. Explain the physics behind this application.
+-----------------------------
+Answer:
+ENT specialists use concave mirrors because of their ability to form virtual,
+erect, and magnified images when the object is placed between the
+mirror's pole and focus. The mirror reflects the light from a head-mounted
+source onto the specific part of the patient’s body being examined —
+usually the ear, nose, or throat.
+The concave mirror not only concentrates the light onto a small area
+(focusing property) but also allows the doctor to see an enlarged, upright
+image of the affected region.
+Because the mirror is mounted with a central hole (for the doctor's eye), it
+combines illumination and magnification. The image appears behind the
+mirror, making internal structures more visible without distortion.
+This setup improves precision in diagnosis and treatment. Unlike convex
+mirrors, concave mirrors can form real or virtual images, making them
+versatile for medical use.
+Keywords: Concave mirror, ENT doctor, Virtual image, Magnification,
+Focus, Pole, Medical application, Reflection, Light convergence, Erect
+image
+
+197. Justify why an object submerged in water appears to be raised.
+Derive the relation between real and apparent depth.
+-----------------------------
+Answer:
+An object under water appears raised because of refraction at the water–
+air interface. Light rays coming from the object bend away from the
+normal as they move from water (denser) to air (rarer).
+Due to this, the brain traces the refracted rays in a straight line backward,
+perceiving the object at a shallower depth — this is called apparent depth.
+The relationship is:
+Apparent depth / Real depth = 1 / Refractive index
+So, if the refractive index of water is 4/3 and real depth is 12 cm, the object
+appears at 9 cm.
+This phenomenon has practical implications in activities like spearfishing,
+where one has to aim below the apparent position of the fish to hit the real
+target.
+It also explains why swimming pool bottoms look closer than they are.
+Keywords: Refraction, Apparent depth, Real depth, Water-air interface,
+Refractive index, Light bending, Optical illusion, Medium change, Raised
+image, Derivation
+
+198. Justify the use of a convex mirror in ATMs and elevators. How does its
+geometry help in practical situations?
+-----------------------------
+Answer:
+Convex mirrors are used in ATMs, elevators, and hallways because they
+provide a wide field of view. Their outward-curved surface reflects light
+rays in such a way that they appear to diverge from a point behind the
+mirror.
+This results in the formation of virtual, erect, and diminished images —
+though smaller, they cover a larger area.
+This allows users and security personnel to monitor surroundings and
+check for safety, especially in blind corners.
+Due to the mirror's geometry, even a small convex mirror can display wide-
+angle views, making it ideal for areas with limited space.
+The image is not distorted and allows real-time monitoring of people
+approaching or standing nearby.
+In elevators, these mirrors help passengers see who is behind them,
+reducing risks and improving security.
+Keywords: Convex mirror, Wide view, Virtual image, Security, Diminished
+image, ATM, Elevator, Safety, Surveillance, Reflection
+
+199. Justify the role of refraction in designing lenses for optical
+instruments like telescopes and microscopes.
+-----------------------------
+Answer:
+Refraction is the key principle in the functioning of optical instruments such
+as microscopes, telescopes, cameras, and magnifiers. When light passes
+from one medium to another (e.g., air to glass), it changes direction — this
+is refraction.
+In a convex lens, parallel rays converge at the focus, forming real, inverted
+images which can be projected or magnified.
+In microscopes, two or more convex lenses are used: the objective lens
+forms a real image which is magnified again by the eyepiece.
+In telescopes, lenses or mirrors gather distant light and refract it to form a
+real image, which is magnified.
+This is possible only because the materials (glass/plastic) are optically
+denser, allowing light to slow down and bend inside them.
+Careful design using the lens maker’s formula and understanding of
+refraction allows accurate image formation and magnification.
+Keywords: Refraction, Lens, Microscope, Telescope, Optical instruments,
+Convex lens, Real image, Converging rays, Eyepiece, Objective lens
+
+200. Justify why the image of the sun formed by a convex lens on a paper
+is real and inverted. How does the lens behave in this context?
+-----------------------------
+Answer:
+The Sun’s rays are effectively parallel when they reach the Earth due to its
+large distance. When these rays pass through a convex lens, they converge
+at the principal focus, forming a real image on the paper.
+This real image is inverted (though the Sun appears circular) and can even
+burn the paper due to energy concentration.
+The lens in this scenario is acting as a converging lens, converting parallel
+rays into focused rays meeting at a point.
+The image is visible because the light rays actually meet at the focal point.
+This principle is also applied in solar concentrators, which use convex
+lenses to convert solar energy into heat energy.
+Such real images can only be captured on a screen, proving their physical
+existence.
+Keywords: Convex lens, Sun image, Real image, Inverted, Focus,
+Convergence, Solar energy, Burning, Paper, Parallel rays
